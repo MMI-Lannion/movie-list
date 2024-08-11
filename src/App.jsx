@@ -1,4 +1,5 @@
 import moviesList from './data/movie-list.json'
+import awards from './data/awards.json'
 import Movie from './components/Movie.jsx'
 import './App.css'
 
@@ -14,8 +15,8 @@ function App() {
         orig_title = {m.orig_title}
         poster = {m.poster}
         director = {m.director}
-        oscar = {m.oscar}
-        cannes = {m.cannes}
+        oscar = {awards.oscar.includes(m.title)}
+        cannes = {awards.cannes.includes(m.title)}
         year = {m.year}
         runtime = {m.runtime}
         key={m.id}

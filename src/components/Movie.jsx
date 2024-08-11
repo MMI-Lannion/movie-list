@@ -5,9 +5,9 @@ export default function Movie({warning, title, plot, orig_title, poster, directo
 
     let icons = []
     if(cannes)
-        icons.push(<img className="m-0 w-8" src={cannesIcon} alt="cannes icon" />)
+        icons.push(<img className="m-0 h-10" src={cannesIcon} alt="cannes icon" />)
     if(oscar)
-        icons.push(<img className="m-0 w-8" src={oscarIcon} alt="oscar icon" />)
+        icons.push(<img className="m-0 h-10" src={oscarIcon} alt="oscar icon" />)
 
     let warningDiv = null
     if(warning !== "")
@@ -22,7 +22,7 @@ export default function Movie({warning, title, plot, orig_title, poster, directo
                 {warningDiv}
                 <h2 className="prose-xl font-bold flex items-center gap-2 m-0 text-left">
                     {title}
-                    <span className="icons">
+                    <span className="flex">
                         {icons}
                     </span>
                 </h2>

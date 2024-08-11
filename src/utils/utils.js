@@ -6,13 +6,12 @@ const movies = JSON.parse(
   )
 ).movies;
 
+
 movies.sort((a, b) => a.title.localeCompare(b.title));
 
 const TMDB_API_KEY = "35f04d0642755d00ee9150514b791d7d"
 const TMDB_IMAGES_URL = "https://image.tmdb.org/t/p/original/"
 
-const OSCAR_WINNERS = await getAwardWinnerList(28)
-const CANNES_WINNERS = await getAwardWinnerList(229)
 
 let moviesList = []
 
@@ -32,6 +31,8 @@ let json = JSON.stringify(moviesList);
 
 await writeFile('../data/movie-list.json', json, 'utf8');
 
+
+/* 
 async function getAwardWinnerList(listID) {
 
   let url = `https://api.themoviedb.org/3/list/${listID}?language=fr&page=1&api_key=${TMDB_API_KEY}`
@@ -52,7 +53,7 @@ async function getAwardWinnerList(listID) {
 
   return list
 
-}
+} */
 
 async function searchTMDB(title, date) {
 
