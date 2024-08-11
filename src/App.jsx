@@ -23,9 +23,12 @@ function App() {
   )
 
   return (
-    <main className="prose prose-stone !max-w-none w-full mx-auto">
-      {movies}
-    </main>
+    <>
+      <div className="flex items-center justify-left w-full m-2 prose-xs text-gray-400 font-light"> {moviesList.length} films</div>
+      <main className="prose prose-stone !max-w-none w-full mx-auto">
+        {movies}
+      </main>
+    </>
   )
 }
 
