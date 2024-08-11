@@ -1,0 +1,1096 @@
+{
+    "movies": [
+        {
+            "title": "Serpico",
+            "warning": "violence",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Mean Streets",
+            "warning": "violence",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Reservoir dogs",
+            "warning": "violence",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "KIll Bill",
+            "warning": "violence",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Apocalypse Now",
+            "warning": "violence",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Old Boy",
+            "warning": "violence",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Parasite",
+            "warning": "violence",
+            "date": "2019",
+            "keep_title": false
+        },
+        {
+            "title": "Fight Club",
+            "warning": "violence",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Grave",
+            "warning": "violence",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Fargo",
+            "warning": "violence",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Orange mécanique",
+            "warning": "violence",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "A History of Violence",
+            "warning": "violence",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Climax",
+            "warning": "violence",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Network",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Douze hommes en colère",
+            "warning": "",
+            "date": "1957",
+            "keep_title": false
+        },
+        {
+            "title": "Le prince de New York",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "La colline des hommes perdus",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "La valse des pantins",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Vertigo",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Fenêtre sur cour",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "La mort aux trousses",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Les temps modernes",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Les feux de la ramps",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Le dictateur",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Monsieur Verdoux",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Edward aux mains d'argent",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Ed Wood",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Joint Security Area",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "The Host",
+            "warning": "",
+            "date": "2006",
+            "keep_title": false
+        },
+        {
+            "title": "Memories of murder",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Mother",
+            "warning": "",
+            "date": "2010",
+            "keep_title": false
+        },
+        {
+            "title": "Do the Right Thing",
+            "warning": "",
+            "date": "",
+            "keep_title": true
+        },
+        {
+            "title": "Clockers",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Zodiac",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "The Grand Budapest Hotel",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "À bord du Darjeeling Limited",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "La famille Tenenbaum",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Birdman",
+            "warning": "",
+            "date": "2014",
+            "keep_title": false
+        },
+        {
+            "title": "The revenant",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Gravity",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Le fils de l'homme",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Brazil",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Les aventures du Baron de Munchausen",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "La science des rêves",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "L'Écume des jours",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Barton Fink",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Inside Llewyn Davis",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "La vie est belle",
+            "warning": "",
+            "date": "1946",
+            "keep_title": false
+        },
+        {
+            "title": "Le vent se lève",
+            "warning": "",
+            "date": "2006",
+            "keep_title": false
+        },
+        {
+            "title": "Sweet Sixteen",
+            "warning": "",
+            "date": "2002",
+            "keep_title": false
+        },
+        {
+            "title": "Le temps des Gitans",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Chat noir, chat blanc",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "La belle verte",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Lost in translation",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Rosetta",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "L'enfant",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Sur les quais",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Un tramway nommé désir",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Max et les ferrailleurs",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "César et Rosalie",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Barry Lyndon",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Les sentiers de la gloire",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Dr Folamour",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Les sept samouraïs",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Ran",
+            "warning": "",
+            "date": "1985",
+            "keep_title": false
+        },
+        {
+            "title": "Dode's Kaden",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Locataires",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Certains l'aiment chaud",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Sunset Boulevard",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "There Will Be Blood",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Inherent Vice",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Mr. Smith au sénat",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Arsenic et vieilles dentelles",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "La mouche",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "eXistenZ",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Le juge et l'assassin",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Que la fête commence...",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Coup de torchon",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "La Vie et rien d'autre",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Elephant",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Gerry",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Paranoid Park",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Mon oncle d'Amérique",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Smoking / No Smoking",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Jour de fête",
+            "warning": "",
+            "date": "1949",
+            "keep_title": false
+        },
+        {
+            "title": "Mon oncle",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Série noire",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Stupeur et Tremblements",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Le goût des autres",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Anatomie d'une chute",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Sybil",
+            "warning": "",
+            "date": "2019",
+            "keep_title": false
+        },
+        {
+            "title": "le faucon maltais",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Reflets dans un oeil d'or",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Gens de Dublin",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Soudain l'été dernier",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "La fureur de vivre",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "La forêt interdite",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "La soif du mal",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Citizen Kane",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "La chambre du fils",
+            "warning": "",
+            "date": "2001",
+            "keep_title": false
+        },
+        {
+            "title": "La grande bellezza",
+            "warning": "",
+            "date": "",
+            "keep_title": true
+        },
+        {
+            "title": "Youth",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Snow Therapy",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Rubber",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Réalité",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Sur mes lèvres",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Un prophète",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "De battre mon cœur s'est arrêté",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Short Cuts",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Le privé",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Marius et jeanette",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "La ville est tranquille",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "La leçon de piano",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Tout sur ma mère",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Femmes au bord de la crise de nerf",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Parle avec elle",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Volver",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Melancholia",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Dancer in the Dark",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "La cérémonie",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Que la bête meure",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Coup de tête",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Metropolis",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "M le Maudit",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "L'homme au bras d'or",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Gloria",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Une femme sous influence",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Les fraises sauvages",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Persona",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Huit et demi",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "La Strada",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "La Dolce vita",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Taxi Teheran",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Sang et Or",
+            "warning": "",
+            "date": "2003",
+            "keep_title": false
+        },
+        {
+            "title": "Elephant Man",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Sailor et Lula",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Blue Velvet",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Twin Peaks",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Fahrenheit 451",
+            "warning": "",
+            "date": "1966",
+            "keep_title": false
+        },
+        {
+            "title": "Les 400 coups",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Jules et Jim",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Portrait de la jeune fille en feu",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Les glaneurs et la glaneuse",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Sans toit ni loi",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Les Cent et Une Nuits de Simon Cinéma",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "10e chambre, instants d'audience",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Paris, Texas",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Les Ailes du désir ",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Perfect Days",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Aguirre ou la colère de dieu",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Beau Travail",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Dead Man",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Ghost Dog",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Broken Flowers",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "L'impossible monsieur bébé",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Le grand sommeil",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Blow Up",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Le guépard",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Mort à Venise",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Enter the Void",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Le temps du loup",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Elle",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Mauvais Sang",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Annette",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Holy Motors",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Le Salaire de la peur",
+            "warning": "",
+            "date": "1953",
+            "keep_title": false
+        },
+        {
+            "title": "Othello",
+            "warning": "",
+            "date": "1951",
+            "keep_title": false
+        },
+        {
+            "title": "MASH",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Taxi Driver",
+            "warning": "violence",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Kagemusha",
+            "warning": "",
+            "date": "1980",
+            "keep_title": false
+        },
+        {
+            "title": "La Ballade de Narayama",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Sous le soleil de Satan",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Underground",
+            "warning": "",
+            "date": "1995",
+            "keep_title": false
+        },
+        {
+            "title": "Rebecca ",
+            "warning": "",
+            "date": "1941",
+            "keep_title": false
+        },
+        {
+            "title": "Les Raisins de la colère",
+            "warning": "",
+            "date": "1940",
+            "keep_title": false
+        },
+        {
+            "title": "Casablanca",
+            "warning": "",
+            "date": "1942",
+            "keep_title": false
+        },
+        {
+            "title": "La Nuit du chasseur ",
+            "warning": "",
+            "date": "1955",
+            "keep_title": false
+        },
+        {
+            "title": "Délivrance",
+            "warning": "violence",
+            "date": "1972",
+            "keep_title": false
+        },
+        {
+            "title": "Un après-midi de chien",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "American Beauty",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Little Miss Sunshine",
+            "warning": "",
+            "date": "",
+            "keep_title": false
+        },
+        {
+            "title": "Nomadland",
+            "warning": "",
+            "date": "2020",
+            "keep_title": false
+        }
+    ]
+}
