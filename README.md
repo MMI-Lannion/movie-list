@@ -1,6 +1,6 @@
 # Movie List
 
-A movie list for students of BUT MMI to watch.
+A to-watch list of movies for students of BUT MMI Lannion.
 
-- Generate a config fil using TMDB API
+- Generate a config file using TMDB API
 - React "app" to list movies (title, poster, runtime, etc.)
