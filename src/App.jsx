@@ -15,11 +15,11 @@ function App() {
         orig_title = {m.orig_title}
         poster = {m.poster}
         director = {m.director}
-        oscar = {awards.oscar.includes(m.title)}
-        cannes = {awards.cannes.includes(m.title)}
-        berlin = {awards.berlin.includes(m.title)}
-        mostra = {awards.mostra.includes(m.title)}
-        cesar = {awards.cesar.includes(m.title)}
+        oscar = {awards.oscar.map(s => s.toLocaleLowerCase()).includes(m.title.toLocaleLowerCase())}
+        cannes = {awards.cannes.map(s => s.toLocaleLowerCase()).includes(m.title.toLocaleLowerCase())}
+        berlin = {awards.berlin.map(s => s.toLocaleLowerCase()).includes(m.title.toLocaleLowerCase())}
+        mostra = {awards.mostra.map(s => s.toLocaleLowerCase()).includes(m.title.toLocaleLowerCase())}
+        cesar = {awards.cesar.map(s => s.toLocaleLowerCase()).includes(m.title.toLocaleLowerCase())}
         year = {m.year}
         runtime = {m.runtime}
         key={m.id}
