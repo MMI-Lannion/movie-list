@@ -17,6 +17,8 @@ function App() {
         director = {m.director}
         oscar = {awards.oscar.includes(m.title)}
         cannes = {awards.cannes.includes(m.title)}
+        berlin = {awards.berlin.includes(m.title)}
+        mostra = {awards.mostra.includes(m.title)}
         year = {m.year}
         runtime = {m.runtime}
         key={m.id}

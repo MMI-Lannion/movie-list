@@ -80,8 +80,6 @@ async function searchTMDB(title, date) {
     "orig_title": res.original_title,
     "poster": TMDB_IMAGES_URL + res.poster_path,
     "director": directors.map(d => d.name).join(", "),
-    "oscar" : OSCAR_WINNERS.includes(res.original_title),
-    "cannes" : CANNES_WINNERS.includes(res.original_title),
     "year": res.release_date.substring(0, 4),
     "runtime" : runtime
   }

@@ -1,15 +1,21 @@
 import cannesIcon from '../assets/cannes.svg'
 import oscarIcon from '../assets/oscar.svg'
+import berlinIcon from '../assets/berlin.svg'
+import mostraIcon from '../assets/mostra.svg'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faTriangleExclamation } from '@fortawesome/free-solid-svg-icons'
 
-export default function Movie({warning, title, plot, orig_title, poster, director, oscar, cannes, year, runtime}){
+export default function Movie({warning, title, plot, orig_title, poster, director, oscar, cannes, berlin, mostra, year, runtime}){
 
     let icons = []
     if(cannes)
-        icons.push(<img className="m-0 h-10" src={cannesIcon} alt="cannes icon" />)
+        icons.push(<img className="m-0 h-6" src={cannesIcon} alt="cannes icon" />)
     if(oscar)
-        icons.push(<img className="m-0 h-10" src={oscarIcon} alt="oscar icon" />)
+        icons.push(<img className="m-0 h-6" src={oscarIcon} alt="oscar icon" />)
+    if(berlin)
+        icons.push(<img className="m-0 h-6" src={berlinIcon} alt="oscar icon" />)
+    if(mostra)
+        icons.push(<img className="m-0 h-6" src={mostraIcon} alt="oscar icon" />)
 
     let warningDiv = null
     if(warning !== "")
@@ -24,8 +30,8 @@ export default function Movie({warning, title, plot, orig_title, poster, directo
         </figure>
             <div className="px-4 p-4 flex flex-col items-start">
                 {warningDiv}
-                <h2 className="prose-xl font-bold flex items-center gap-2 m-0 text-left">
-                    {title}
+                <h2 className="prose-xl font-bold flex items-start gap-2 m-0 flex-wrap text-left">
+                    <span>{title}</span>
                     <span className="flex">
                         {icons}
                     </span>
