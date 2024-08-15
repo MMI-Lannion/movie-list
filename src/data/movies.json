@@ -2,13 +2,13 @@
     "movies": [
         {
             "title": "Serpico",
-            "warning": "violence",
+            "warning": "",
             "date": "",
             "keep_title": false
         },
         {
             "title": "Mean Streets",
-            "warning": "violence",
+            "warning": "",
             "date": "",
             "keep_title": false
         },
