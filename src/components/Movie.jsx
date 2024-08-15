@@ -20,7 +20,7 @@ export default function Movie({warning, title, plot, orig_title, poster, directo
     return <>
         <div className=" bg-base-100 shadow-lg border border-slate-200 flex justify-items-center grow-0 my-2 rounded-lg h-full">
         <figure className="!my-0">
-            <img src={poster} className="!my-0 max-w-36 grow-0 shrink-0 rounded-lg overflow-hidden" alt={"poster " + {title}}/>
+            <img src={poster} className="!my-0 max-w-36 grow-0 shrink-0 rounded-lg overflow-hidden" alt={"poster " + title}/>
         </figure>
             <div className="px-4 p-4 flex flex-col items-start">
                 {warningDiv}
