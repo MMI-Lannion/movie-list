@@ -2,10 +2,11 @@ import cannesIcon from '../assets/cannes.svg'
 import oscarIcon from '../assets/oscar.svg'
 import berlinIcon from '../assets/berlin.svg'
 import mostraIcon from '../assets/mostra.svg'
+import cesarIcon from '../assets/cesar.svg'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faTriangleExclamation } from '@fortawesome/free-solid-svg-icons'
 
-export default function Movie({warning, title, plot, orig_title, poster, director, oscar, cannes, berlin, mostra, year, runtime}){
+export default function Movie({warning, title, plot, orig_title, poster, director, oscar, cannes, berlin, mostra, cesar, year, runtime}){
 
     let icons = []
     if(cannes)
@@ -13,9 +14,11 @@ export default function Movie({warning, title, plot, orig_title, poster, directo
     if(oscar)
         icons.push(<img className="m-0 h-6" src={oscarIcon} alt="oscar icon" />)
     if(berlin)
-        icons.push(<img className="m-0 h-6" src={berlinIcon} alt="oscar icon" />)
+        icons.push(<img className="m-0 h-6" src={berlinIcon} alt="berlin icon" />)
     if(mostra)
-        icons.push(<img className="m-0 h-6" src={mostraIcon} alt="oscar icon" />)
+        icons.push(<img className="m-0 h-6" src={mostraIcon} alt="mostra icon" />)
+    if(cesar)
+        icons.push(<img className="m-0 h-6" src={cesarIcon} alt="cesar icon" />)
 
     let warningDiv = null
     if(warning !== "")
