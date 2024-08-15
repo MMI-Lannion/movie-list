@@ -1,5 +1,7 @@
 import cannesIcon from '../assets/cannes.svg'
 import oscarIcon from '../assets/oscar.svg'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faTriangleExclamation } from '@fortawesome/free-solid-svg-icons'
 
 export default function Movie({warning, title, plot, orig_title, poster, director, oscar, cannes, year, runtime}){
 
@@ -11,7 +13,9 @@ export default function Movie({warning, title, plot, orig_title, poster, directo
 
     let warningDiv = null
     if(warning !== "")
-        warningDiv = <span className="badge badge-outline badge-error !prose-xs"> {warning}</span>
+        warningDiv = <span className="badge badge-outline badge-error !prose-xs"> 
+                            <FontAwesomeIcon icon={faTriangleExclamation} /> &nbsp; {warning}
+                    </span>
 
     return <>
         <div className=" bg-base-100 shadow-lg border border-slate-200 flex justify-items-center grow-0 my-2 rounded-lg h-full">
