@@ -15,7 +15,7 @@ const TMDB_IMAGES_URL = "https://image.tmdb.org/t/p/w185"
 
 let moviesList = []
 
-for (let { title, warning, date, keep_title } of movies) {
+for (let { title, warning, date, keep_title, bu } of movies) {
   console.log(title)
 
   let res = await searchTMDB(title, date)
@@ -23,6 +23,7 @@ for (let { title, warning, date, keep_title } of movies) {
   if(keep_title)
     res["title"] = title
   res["warning"] = warning
+  res["bu"] = bu
 
   moviesList.push(res)
 }

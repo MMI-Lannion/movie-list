@@ -6,11 +6,10 @@
         "orig_title": "10e chambre - Instants d'audience",
         "poster": "https://image.tmdb.org/t/p/w185/2kykPNLRCxlM23EnVOpWLwUdAbH.jpg",
         "director": "Raymond Depardon",
-        "oscar": false,
-        "cannes": false,
         "year": "2004",
         "runtime": 105,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 4538,
@@ -19,11 +18,10 @@
         "orig_title": "The Darjeeling Limited",
         "poster": "https://image.tmdb.org/t/p/w185/jg6RMPfBj0RM1GuC9xmskNtF2W6.jpg",
         "director": "Wes Anderson",
-        "oscar": false,
-        "cannes": false,
         "year": "2007",
         "runtime": 92,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 59,
@@ -32,24 +30,22 @@
         "orig_title": "A History of Violence",
         "poster": "https://image.tmdb.org/t/p/w185/keHREQ9jRiHp7ja1SM8xmDCo6vI.jpg",
         "director": "David Cronenberg",
-        "oscar": false,
-        "cannes": false,
         "year": "2005",
         "runtime": 96,
-        "warning": "violence"
+        "warning": "violence",
+        "bu": false
     },
     {
         "id": 2000,
         "title": "Aguirre, la colère de Dieu",
-        "plot": "La marche de ses soldats étant contrariée par de multiples périls, Pizzaro, le conquérant du Pérou, confie à un groupe d'une quarantaine d'hommes – sous la direction de Pedro de Ursua, secondé par don Lope de Aguirre – le soin de descendre le fleuve afin de reconnaître le terrain. Très vite, Aguirre se révolte contre Ursua, qu'il blesse d'un coup de feu. Rejetant l'autorité de l'Espagne, libre et rebelle, Aguirre entraîne alors ses compagnons vers cet Eldorado mythique qui les fait tous rêver depuis si longtemps. Il s'est mis en tête de se tailler un empire autour de la fabuleuse cité d'or et d'y fonder une dynastie…",
+        "plot": "La marche de ses soldats étant contrariée par de multiples périls, Pizzaro, le conquérant du Pérou, confie à un groupe d'une quarantaine d'hommes — sous la direction de Pedro de Ursua, secondé par Don Lope de Aguirre — le soin de descendre le fleuve afin de reconnaître le terrain. Très vite, Aguirre se révolte contre Ursua, qu'il blesse d'un coup de feu. Rejetant l'autorité de l'Espagne, libre et rebelle, Aguirre entraîne alors ses compagnons vers cet Eldorado mythique qui les fait tous rêver depuis si longtemps. Il s'est mis en tête de se tailler un empire autour de la fabuleuse cité d'or et d'y fonder une dynastie…",
         "orig_title": "Aguirre, der Zorn Gottes",
         "poster": "https://image.tmdb.org/t/p/w185/aScDAcoUR4a3f6Kh9GSEi5Xpocm.jpg",
         "director": "Werner Herzog",
-        "oscar": false,
-        "cannes": false,
         "year": "1972",
         "runtime": 95,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 14,
@@ -58,11 +54,10 @@
         "orig_title": "American Beauty",
         "poster": "https://image.tmdb.org/t/p/w185/jLkxPf0IPJZ3EBVG27oUTZfYavL.jpg",
         "director": "Sam Mendes",
-        "oscar": true,
-        "cannes": false,
         "year": "1999",
         "runtime": 122,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 915935,
@@ -71,11 +66,10 @@
         "orig_title": "Anatomie d'une chute",
         "poster": "https://image.tmdb.org/t/p/w185/4L0pX6aVFxxJK1hR1QdHjMQvASy.jpg",
         "director": "Justine Triet",
-        "oscar": false,
-        "cannes": false,
         "year": "2023",
         "runtime": 151,
-        "warning": ""
+        "warning": "",
+        "bu": true
     },
     {
         "id": 424277,
@@ -84,11 +78,10 @@
         "orig_title": "Annette",
         "poster": "https://image.tmdb.org/t/p/w185/kumbxy2gNU0IvymBjJzbOC6OEJv.jpg",
         "director": "Leos Carax",
-        "oscar": false,
-        "cannes": false,
         "year": "2021",
         "runtime": 140,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 28,
@@ -97,11 +90,10 @@
         "orig_title": "Apocalypse Now",
         "poster": "https://image.tmdb.org/t/p/w185/scaiAT7I2KZ2GAeMvoU6Ro1515J.jpg",
         "director": "Francis Ford Coppola",
-        "oscar": false,
-        "cannes": true,
         "year": "1979",
         "runtime": 147,
-        "warning": "violence"
+        "warning": "violence",
+        "bu": false
     },
     {
         "id": 212,
@@ -110,11 +102,10 @@
         "orig_title": "Arsenic and Old Lace",
         "poster": "https://image.tmdb.org/t/p/w185/pj3MlxSeYkpwsdOa1O8ZBzozWf8.jpg",
         "director": "Frank Capra",
-        "oscar": false,
-        "cannes": false,
         "year": "1944",
         "runtime": 118,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 3175,
@@ -123,11 +114,10 @@
         "orig_title": "Barry Lyndon",
         "poster": "https://image.tmdb.org/t/p/w185/prwtTDfRbwdNOzjURTabW3UYW0O.jpg",
         "director": "Stanley Kubrick",
-        "oscar": false,
-        "cannes": false,
         "year": "1975",
         "runtime": 185,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 290,
@@ -135,12 +125,11 @@
         "plot": "New York 1941. Barton Fink, jeune dramaturge, rencontre le succès grâce à un roman populaire. Hollywood s'intéresse à lui et Wallace Beery le charge d'écrire des scénarios sur le monde des lutteurs. Fink va découvrir les mystères d'Hollywood, l'angoisse de la page blanche et un étrange voisin qui lui révélera quelques secrets sur l'art de l'existence...",
         "orig_title": "Barton Fink",
         "poster": "https://image.tmdb.org/t/p/w185/grt48ThrPp5Eu96h5sX8zyoDRFD.jpg",
-        "director": "Joel Coen, Ethan Coen",
-        "oscar": false,
-        "cannes": true,
+        "director": "Joel Coen",
         "year": "1991",
         "runtime": 117,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 14626,
@@ -149,11 +138,10 @@
         "orig_title": "Beau travail",
         "poster": "https://image.tmdb.org/t/p/w185/7aVQFvGkLnpA71mYoDkVkzSzBZM.jpg",
         "director": "Claire Denis",
-        "oscar": false,
-        "cannes": false,
         "year": "2000",
         "runtime": 93,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 194662,
@@ -162,11 +150,10 @@
         "orig_title": "Birdman or (The Unexpected Virtue of Ignorance)",
         "poster": "https://image.tmdb.org/t/p/w185/aQiFgaz5e3f0d6t0vjNWsHj53Jy.jpg",
         "director": "Alejandro González Iñárritu",
-        "oscar": true,
-        "cannes": false,
         "year": "2014",
         "runtime": 120,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 1052,
@@ -175,11 +162,10 @@
         "orig_title": "Blow-Up",
         "poster": "https://image.tmdb.org/t/p/w185/ru7XGZEDmFY1GNAhUOprEBHbTIN.jpg",
         "director": "Michelangelo Antonioni",
-        "oscar": false,
-        "cannes": true,
         "year": "1966",
         "runtime": 111,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 793,
@@ -188,11 +174,10 @@
         "orig_title": "Blue Velvet",
         "poster": "https://image.tmdb.org/t/p/w185/zw0JOpVE5IFE8IfAm8zRX0AkB3O.jpg",
         "director": "David Lynch",
-        "oscar": false,
-        "cannes": false,
         "year": "1986",
         "runtime": 120,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 68,
@@ -201,11 +186,10 @@
         "orig_title": "Brazil",
         "poster": "https://image.tmdb.org/t/p/w185/745fbQQG6MEr9n3Fovj7clf6AT4.jpg",
         "director": "Terry Gilliam",
-        "oscar": false,
-        "cannes": false,
         "year": "1985",
         "runtime": 143,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 308,
@@ -214,11 +198,10 @@
         "orig_title": "Broken Flowers",
         "poster": "https://image.tmdb.org/t/p/w185/5SqwYLReaJSXKD9ReUf69bbfS3L.jpg",
         "director": "Jim Jarmusch",
-        "oscar": false,
-        "cannes": false,
         "year": "2005",
         "runtime": 106,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 289,
@@ -227,24 +210,22 @@
         "orig_title": "Casablanca",
         "poster": "https://image.tmdb.org/t/p/w185/5tVekU5MvJjws4MDr3lXYL8tLjf.jpg",
         "director": "Michael Curtiz",
-        "oscar": false,
-        "cannes": false,
         "year": "1943",
         "runtime": 102,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 239,
         "title": "Certains l'aiment chaud",
         "plot": "Deux musiciens de jazz au chômage, mêlés involontairement à un règlement de comptes entre gangsters, se transforment en musiciennes pour leur échapper. Ils partent en Floride avec un orchestre féminin. Ils tombent illico amoureux d'une ravissante et blonde créature, Alouette, qui veut épouser un milliardaire…",
         "orig_title": "Some Like It Hot",
-        "poster": "https://image.tmdb.org/t/p/w185/euufDAwaAcCOxD4l0c5nsS8YBca.jpg",
+        "poster": "https://image.tmdb.org/t/p/w185/vUBgUWMs6TuCuUScfB98kPBYIbG.jpg",
         "director": "Billy Wilder",
-        "oscar": false,
-        "cannes": false,
         "year": "1959",
         "runtime": 122,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 3426,
@@ -253,11 +234,10 @@
         "orig_title": "César et Rosalie",
         "poster": "https://image.tmdb.org/t/p/w185/ywd4ozvMYQwjNq14ctEy0kP6hyp.jpg",
         "director": "Claude Sautet",
-        "oscar": false,
-        "cannes": false,
         "year": "1972",
         "runtime": 110,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 1075,
@@ -266,11 +246,10 @@
         "orig_title": "Crna mačka, beli mačor",
         "poster": "https://image.tmdb.org/t/p/w185/bbeSx7usxfCl0ey8MklidtRnvxr.jpg",
         "director": "Emir Kusturica",
-        "oscar": false,
-        "cannes": false,
         "year": "1998",
         "runtime": 127,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 15,
@@ -279,11 +258,10 @@
         "orig_title": "Citizen Kane",
         "poster": "https://image.tmdb.org/t/p/w185/89GnRTK1CjJSUelKKHLIPXsVam9.jpg",
         "director": "Orson Welles",
-        "oscar": false,
-        "cannes": false,
         "year": "1941",
         "runtime": 119,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 507076,
@@ -292,11 +270,10 @@
         "orig_title": "Climax",
         "poster": "https://image.tmdb.org/t/p/w185/j594woyeGeEGvlSZ95sZuA5uCot.jpg",
         "director": "Gaspar Noé",
-        "oscar": false,
-        "cannes": false,
         "year": "2018",
         "runtime": 97,
-        "warning": "violence"
+        "warning": "violence",
+        "bu": true
     },
     {
         "id": 20649,
@@ -305,11 +282,10 @@
         "orig_title": "Clockers",
         "poster": "https://image.tmdb.org/t/p/w185/c79uqLJleho2a7OQayfrW5Ypphf.jpg",
         "director": "Spike Lee",
-        "oscar": false,
-        "cannes": false,
         "year": "1995",
         "runtime": 128,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 10792,
@@ -318,11 +294,10 @@
         "orig_title": "Coup de tête",
         "poster": "https://image.tmdb.org/t/p/w185/fcwt2EwN2WcwXiJutDynMsuLWpc.jpg",
         "director": "Jean-Jacques Annaud",
-        "oscar": false,
-        "cannes": false,
         "year": "1979",
         "runtime": 89,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 35797,
@@ -331,24 +306,22 @@
         "orig_title": "Coup de torchon",
         "poster": "https://image.tmdb.org/t/p/w185/kQJVkuepfrZukB99qKVWx6O1Rp1.jpg",
         "director": "Bertrand Tavernier",
-        "oscar": false,
-        "cannes": false,
         "year": "1981",
         "runtime": 128,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 16,
         "title": "Dancer in the Dark",
-        "plot": "Selma Jezkova, émigrée tchèque et mère célibataire, travaille dans une usine de l'Amérique profonde. Elle trouve son salut dans sa passion pour la musique, spécialement les chansons et les danses des grandes comédies musicales hollywoodiennes. Selma garde un lourd secret : elle perd la vue et son fils Gene connaîtra le même sort sauf si elle réussit à mettre assez d'argent de côté pour lui payer une opération. Quand un voisin aux abois accuse à tort Selma d'avoir volé ses économies, le drame de sa vie s'intensifie pour se terminer en final tragique.",
+        "plot": "Selma Jezkova, émigrée tchèque et mère célibataire, travaille dans une usine de l'Amérique profonde. Elle trouve son salut dans sa passion pour la musique, spécialement les chansons et les danses des grandes comédies musicales hollywoodiennes. Selma garde un lourd secret : elle perd la vue et son fils Gene connaîtra le même sort sauf si elle réussit à mettre assez d'argent de côté pour lui payer une opération. Quand un voisin aux abois accuse à tort Selma d'avoir volé ses économies, le drame de sa vie s'intensifie pour se terminer en final tragique.\r Palme d'Or 2000",
         "orig_title": "Dancer in the Dark",
         "poster": "https://image.tmdb.org/t/p/w185/sBh45R8jwJRiN72tnjV49Amhu09.jpg",
         "director": "Lars von Trier",
-        "oscar": false,
-        "cannes": true,
         "year": "2000",
         "runtime": 140,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 1553,
@@ -357,11 +330,10 @@
         "orig_title": "De battre mon cœur s'est arrêté",
         "poster": "https://image.tmdb.org/t/p/w185/jx1uqLxK51x6gNaSO7jpYd1P5md.jpg",
         "director": "Jacques Audiard",
-        "oscar": false,
-        "cannes": false,
         "year": "2005",
         "runtime": 107,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 922,
@@ -370,11 +342,10 @@
         "orig_title": "Dead Man",
         "poster": "https://image.tmdb.org/t/p/w185/4K3yec5EWavUkAtcfH7Rupp7YSG.jpg",
         "director": "Jim Jarmusch",
-        "oscar": false,
-        "cannes": false,
         "year": "1995",
         "runtime": 121,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 10669,
@@ -383,11 +354,10 @@
         "orig_title": "Deliverance",
         "poster": "https://image.tmdb.org/t/p/w185/7KKnCtB2KD49da0CP5UQhcBVxLp.jpg",
         "director": "John Boorman",
-        "oscar": false,
-        "cannes": false,
         "year": "1972",
         "runtime": 109,
-        "warning": "violence"
+        "warning": "violence",
+        "bu": false
     },
     {
         "id": 925,
@@ -396,8 +366,6 @@
         "orig_title": "Do the Right Thing",
         "poster": "https://image.tmdb.org/t/p/w185/tlu7AwizbRv62kwIfe4E6oi7Z1T.jpg",
         "director": "Spike Lee",
-        "oscar": false,
-        "cannes": false,
         "year": "1989",
         "runtime": 120,
         "warning": ""
@@ -409,11 +377,10 @@
         "orig_title": "どですかでん",
         "poster": "https://image.tmdb.org/t/p/w185/gP9pM94ATcZGfKQ3faKy0a3dVIi.jpg",
         "director": "Akira Kurosawa",
-        "oscar": false,
-        "cannes": false,
         "year": "1970",
         "runtime": 140,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 389,
@@ -422,11 +389,10 @@
         "orig_title": "12 Angry Men",
         "poster": "https://image.tmdb.org/t/p/w185/bPImGSvZtG2tvsJ9bVLrIECRDnB.jpg",
         "director": "Sidney Lumet",
-        "oscar": false,
-        "cannes": false,
         "year": "1957",
         "runtime": 97,
-        "warning": ""
+        "warning": "",
+        "bu": true
     },
     {
         "id": 935,
@@ -435,11 +401,10 @@
         "orig_title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
         "poster": "https://image.tmdb.org/t/p/w185/3g1CRHeMVLFVM2dcXasu3kBw4qV.jpg",
         "director": "Stanley Kubrick",
-        "oscar": false,
-        "cannes": false,
         "year": "1964",
         "runtime": 95,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 522,
@@ -448,11 +413,10 @@
         "orig_title": "Ed Wood",
         "poster": "https://image.tmdb.org/t/p/w185/lgSnLaDu48WskDAobYH1vntKETk.jpg",
         "director": "Tim Burton",
-        "oscar": false,
-        "cannes": false,
         "year": "1994",
         "runtime": 127,
-        "warning": ""
+        "warning": "",
+        "bu": true
     },
     {
         "id": 162,
@@ -461,11 +425,10 @@
         "orig_title": "Edward Scissorhands",
         "poster": "https://image.tmdb.org/t/p/w185/tMCj9KY70NasF2KsiXWpg0m7smK.jpg",
         "director": "Tim Burton",
-        "oscar": false,
-        "cannes": false,
         "year": "1990",
         "runtime": 105,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 1807,
@@ -474,11 +437,10 @@
         "orig_title": "Elephant",
         "poster": "https://image.tmdb.org/t/p/w185/nuRL5eU6LohqFkI1nDn7cjRdPsk.jpg",
         "director": "Gus Van Sant",
-        "oscar": false,
-        "cannes": true,
         "year": "2003",
         "runtime": 81,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 1955,
@@ -487,11 +449,10 @@
         "orig_title": "The Elephant Man",
         "poster": "https://image.tmdb.org/t/p/w185/zf9GBMbvU2KA8dDpZ2MaApUsFX8.jpg",
         "director": "David Lynch",
-        "oscar": false,
-        "cannes": false,
         "year": "1980",
         "runtime": 124,
-        "warning": ""
+        "warning": "",
+        "bu": true
     },
     {
         "id": 337674,
@@ -500,11 +461,10 @@
         "orig_title": "Elle",
         "poster": "https://image.tmdb.org/t/p/w185/8IQ6qsJRBGo6E1U3shQPS3tVl0O.jpg",
         "director": "Paul Verhoeven",
-        "oscar": false,
-        "cannes": false,
         "year": "2016",
         "runtime": 131,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 34647,
@@ -513,11 +473,10 @@
         "orig_title": "Enter the Void",
         "poster": "https://image.tmdb.org/t/p/w185/krKnsfvSJM1PL40tLicRhVQ6kuG.jpg",
         "director": "Gaspar Noé",
-        "oscar": false,
-        "cannes": false,
         "year": "2009",
         "runtime": 161,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 1946,
@@ -526,11 +485,10 @@
         "orig_title": "eXistenZ",
         "poster": "https://image.tmdb.org/t/p/w185/gvmK76FxULcBJ0qNvQlybZM4UFa.jpg",
         "director": "David Cronenberg",
-        "oscar": false,
-        "cannes": false,
         "year": "1999",
         "runtime": 97,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 1714,
@@ -539,11 +497,10 @@
         "orig_title": "Fahrenheit 451",
         "poster": "https://image.tmdb.org/t/p/w185/i8fmr2XecsJIhzrsvVW944myfxs.jpg",
         "director": "François Truffaut",
-        "oscar": false,
-        "cannes": false,
         "year": "1966",
         "runtime": 113,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 275,
@@ -552,11 +509,10 @@
         "orig_title": "Fargo",
         "poster": "https://image.tmdb.org/t/p/w185/pkuNNMtJ40h3l0eQIMM8CYHXJlQ.jpg",
         "director": "Joel Coen",
-        "oscar": false,
-        "cannes": false,
         "year": "1996",
         "runtime": 98,
-        "warning": "violence"
+        "warning": "violence",
+        "bu": true
     },
     {
         "id": 4203,
@@ -565,11 +521,10 @@
         "orig_title": "Mujeres al borde de un ataque de nervios",
         "poster": "https://image.tmdb.org/t/p/w185/1V9WE2CuAxca63aMmhLSgDvEjKI.jpg",
         "director": "Pedro Almodóvar",
-        "oscar": false,
-        "cannes": false,
         "year": "1988",
         "runtime": 88,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 567,
@@ -578,11 +533,10 @@
         "orig_title": "Rear Window",
         "poster": "https://image.tmdb.org/t/p/w185/xiPX9jCpPXQIqIrbbuHfsL4qt9c.jpg",
         "director": "Alfred Hitchcock",
-        "oscar": false,
-        "cannes": false,
         "year": "1954",
-        "runtime": 115,
-        "warning": ""
+        "runtime": 112,
+        "warning": "",
+        "bu": false
     },
     {
         "id": 550,
@@ -591,11 +545,10 @@
         "orig_title": "Fight Club",
         "poster": "https://image.tmdb.org/t/p/w185/t1i10ptOivG4hV7erkX3tmKpiqm.jpg",
         "director": "David Fincher",
-        "oscar": false,
-        "cannes": false,
         "year": "1999",
         "runtime": 139,
-        "warning": "violence"
+        "warning": "violence",
+        "bu": false
     },
     {
         "id": 39507,
@@ -604,24 +557,22 @@
         "orig_title": "The Dead",
         "poster": "https://image.tmdb.org/t/p/w185/aD2vN33w3PKdwwDYJyyNZHhItte.jpg",
         "director": "John Huston",
-        "oscar": false,
-        "cannes": false,
         "year": "1987",
         "runtime": 83,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 1956,
         "title": "Gerry",
         "plot": "Deux hommes, nommés tous deux Gerry, traversent en voiture le désert californien vers une destination qui n'est connue que d'eux seuls. Persuadés d'atteindre bientôt leur but, les deux amis décident de terminer leur périple à pied.  Mais Gerry et Gerry ne trouvent pas ce qu'ils sont venus chercher ; ils ne sont même plus capables de retrouver l'emplacement de leur voiture. C'est donc sans eau et sans nourriture qu'ils vont s'enfoncer plus profondément encore dans la brûlante Vallée de la Mort. Leur amitié sera mise à rude épreuve.",
         "orig_title": "Gerry",
-        "poster": "https://image.tmdb.org/t/p/w185/o1SwU7jA74qFCmz4JqFpDvy3O4v.jpg",
+        "poster": "https://image.tmdb.org/t/p/w185/k082L9Xgzm68zKBSLtYs3sgfrWc.jpg",
         "director": "Gus Van Sant",
-        "oscar": false,
-        "cannes": false,
         "year": "2002",
         "runtime": 103,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 4816,
@@ -630,24 +581,22 @@
         "orig_title": "Ghost Dog: The Way of the Samurai",
         "poster": "https://image.tmdb.org/t/p/w185/x9Sqqfo41qz8C30BHCQSnox0339.jpg",
         "director": "Jim Jarmusch",
-        "oscar": false,
-        "cannes": false,
         "year": "1999",
         "runtime": 116,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
-        "id": 10889,
+        "id": 264401,
         "title": "Gloria",
-        "plot": "Une femme hérite d'un jeune garçon que son père, traqué par la mafia, lui confie. D'abord réticente, elle fera tout pour sauver l'enfant pourchassé.",
+        "plot": "Gloria never imagined that an audition for the music producer Sergio Andrade was going to change her life so drastically. King Midas not only brought her to stardom, but also to a dramatic story of love, heartbreak and betrayal. Based on the life story of  pop/rock singer Gloria Trevi.",
         "orig_title": "Gloria",
-        "poster": "https://image.tmdb.org/t/p/w185/uu3kvZSMlxfc8zj8LrgmGa6XYQ5.jpg",
-        "director": "John Cassavetes",
-        "oscar": false,
-        "cannes": false,
-        "year": "1980",
-        "runtime": 123,
-        "warning": ""
+        "poster": "https://image.tmdb.org/t/p/w185/1yVRLamL1TixPSrWAJQ51AI6PZr.jpg",
+        "director": "Christian Keller",
+        "year": "2014",
+        "runtime": 120,
+        "warning": "",
+        "bu": false
     },
     {
         "id": 393519,
@@ -656,11 +605,10 @@
         "orig_title": "Grave",
         "poster": "https://image.tmdb.org/t/p/w185/rezrNBKn6xFTOy5uz0zKV2QQD62.jpg",
         "director": "Julia Ducournau",
-        "oscar": false,
-        "cannes": false,
         "year": "2016",
         "runtime": 99,
-        "warning": "violence"
+        "warning": "violence",
+        "bu": false
     },
     {
         "id": 49047,
@@ -669,11 +617,10 @@
         "orig_title": "Gravity",
         "poster": "https://image.tmdb.org/t/p/w185/cPrUo65h0CDXsAB9t3yL6wfv6j1.jpg",
         "director": "Alfonso Cuarón",
-        "oscar": false,
-        "cannes": false,
         "year": "2013",
         "runtime": 91,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 103328,
@@ -682,24 +629,22 @@
         "orig_title": "Holy Motors",
         "poster": "https://image.tmdb.org/t/p/w185/htqJeUz86S2sowWpnQX4LK0Nlcm.jpg",
         "director": "Leos Carax",
-        "oscar": false,
-        "cannes": false,
         "year": "2012",
         "runtime": 115,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 422,
         "title": "Huit et demi",
         "plot": "Un cinéaste dépressif fuit le monde du cinéma et se réfugie dans un univers peuplé de fantasmes.",
         "orig_title": "8½",
-        "poster": "https://image.tmdb.org/t/p/w185/9MQdBEd4oetuKFZemxT6MisLgjg.jpg",
+        "poster": "https://image.tmdb.org/t/p/w185/aW3YxRYgWF806bTRz7WkpIze8Pd.jpg",
         "director": "Federico Fellini",
-        "oscar": false,
-        "cannes": false,
         "year": "1963",
         "runtime": 139,
-        "warning": ""
+        "warning": "",
+        "bu": true
     },
     {
         "id": 171274,
@@ -708,11 +653,10 @@
         "orig_title": "Inherent Vice",
         "poster": "https://image.tmdb.org/t/p/w185/hyan5Uc0lGpPuad94DM1pLxneiP.jpg",
         "director": "Paul Thomas Anderson",
-        "oscar": false,
-        "cannes": false,
         "year": "2014",
         "runtime": 149,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 86829,
@@ -721,11 +665,10 @@
         "orig_title": "Inside Llewyn Davis",
         "poster": "https://image.tmdb.org/t/p/w185/SHFBAQtrnBUqWDlrJWPgn7H4jY.jpg",
         "director": "Joel Coen, Ethan Coen",
-        "oscar": false,
-        "cannes": false,
         "year": "2013",
         "runtime": 104,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 2440,
@@ -734,24 +677,22 @@
         "orig_title": "공동경비구역 JSA",
         "poster": "https://image.tmdb.org/t/p/w185/rudBOKESMvmbN3SKd2Ta3l9GlrS.jpg",
         "director": "Park Chan-wook",
-        "oscar": false,
-        "cannes": false,
         "year": "2000",
         "runtime": 108,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 4595,
         "title": "Jour de fête",
         "plot": "Un petit village de province prépare sa fête patronale. Les enfants se réjouissent et les adultes s'affairent, tandis que les forains installent leurs attractions. Gentil mais maladroit, François, le facteur, offre à tout le monde une aide embarrassante. Sa contribution à l'élévation du mât de cocagne l'emplit de fierté et de commentaires pour le reste de la journée. Le grand jour venu, François voit dans une baraque foraine un documentaire sur la poste aérienne aux États-Unis. Piqué au vif par les quolibets, il annonce son intention de faire une tournée «à l'américaine» et s'élance aussitôt sur son vélo. Le résultat tient plus de la comédie burlesque que de l'exploit technologique...",
         "orig_title": "Jour de fête",
-        "poster": "https://image.tmdb.org/t/p/w185/WYuJSD1lt4xXH1tdS3FT1d1gL.jpg",
+        "poster": "https://image.tmdb.org/t/p/w185/yd3gvUPkJNblTw2Ti17uUIBf3f2.jpg",
         "director": "Jacques Tati",
-        "oscar": false,
-        "cannes": false,
         "year": "1949",
         "runtime": 86,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 1628,
@@ -760,11 +701,10 @@
         "orig_title": "Jules et Jim",
         "poster": "https://image.tmdb.org/t/p/w185/iQPk7jK26RrwYgnAYq5l2Ha3iPc.jpg",
         "director": "François Truffaut",
-        "oscar": false,
-        "cannes": false,
         "year": "1962",
         "runtime": 106,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 11953,
@@ -773,11 +713,10 @@
         "orig_title": "影武者",
         "poster": "https://image.tmdb.org/t/p/w185/iBbPSLx2yUU3XsdJAVt7dldmdIM.jpg",
         "director": "Akira Kurosawa",
-        "oscar": false,
-        "cannes": true,
         "year": "1980",
         "runtime": 180,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 24,
@@ -786,11 +725,10 @@
         "orig_title": "Kill Bill: Vol. 1",
         "poster": "https://image.tmdb.org/t/p/w185/hM2fUVWViGIJT0Twz2BTXOBEYLM.jpg",
         "director": "Quentin Tarantino",
-        "oscar": false,
-        "cannes": false,
         "year": "2003",
         "runtime": 111,
-        "warning": "violence"
+        "warning": "violence",
+        "bu": false
     },
     {
         "id": 157820,
@@ -799,11 +737,10 @@
         "orig_title": "L'Écume des jours",
         "poster": "https://image.tmdb.org/t/p/w185/cwSBXt6j5ZwaD1dAMJ0SJCL7EQH.jpg",
         "director": "Michel Gondry",
-        "oscar": false,
-        "cannes": false,
         "year": "2013",
         "runtime": 130,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 11490,
@@ -812,11 +749,10 @@
         "orig_title": "L'enfant",
         "poster": "https://image.tmdb.org/t/p/w185/kLY1xQM0VLzB8kaPOMyV5aP3LBz.jpg",
         "director": "Luc Dardenne, Jean-Pierre Dardenne",
-        "oscar": false,
-        "cannes": true,
         "year": "2005",
         "runtime": 95,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 541,
@@ -825,11 +761,10 @@
         "orig_title": "The Man with the Golden Arm",
         "poster": "https://image.tmdb.org/t/p/w185/v4Qo5ip291pYxZRX1rIWqt4J4Sv.jpg",
         "director": "Otto Preminger",
-        "oscar": false,
-        "cannes": false,
         "year": "1955",
         "runtime": 119,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 900,
@@ -838,11 +773,10 @@
         "orig_title": "Bringing Up Baby",
         "poster": "https://image.tmdb.org/t/p/w185/bIqLibVWopRn1RqRSyS3EvNDTtu.jpg",
         "director": "Howard Hawks",
-        "oscar": false,
-        "cannes": false,
         "year": "1938",
         "runtime": 102,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 42113,
@@ -851,11 +785,10 @@
         "orig_title": "楢山節考",
         "poster": "https://image.tmdb.org/t/p/w185/2ZIJr2X7xXQrkM8vzSQz1CDfGC9.jpg",
         "director": "Shōhei Imamura",
-        "oscar": false,
-        "cannes": true,
         "year": "1983",
         "runtime": 130,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 25518,
@@ -864,11 +797,10 @@
         "orig_title": "La Belle Verte",
         "poster": "https://image.tmdb.org/t/p/w185/vy6J1RJEuQ4W2NZUN8GJKsqKAjW.jpg",
         "director": "Coline Serreau",
-        "oscar": false,
-        "cannes": false,
         "year": "1996",
         "runtime": 99,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 1802,
@@ -877,11 +809,10 @@
         "orig_title": "La Cérémonie",
         "poster": "https://image.tmdb.org/t/p/w185/mveftMFUZ7FQLJWT8WgDSeoE6yd.jpg",
         "director": "Claude Chabrol",
-        "oscar": false,
-        "cannes": false,
         "year": "1995",
         "runtime": 111,
-        "warning": ""
+        "warning": "",
+        "bu": true
     },
     {
         "id": 11447,
@@ -890,11 +821,10 @@
         "orig_title": "La stanza del figlio",
         "poster": "https://image.tmdb.org/t/p/w185/rhzUL1S2o3W217c4epDuC6mYnto.jpg",
         "director": "Nanni Moretti",
-        "oscar": false,
-        "cannes": true,
         "year": "2001",
         "runtime": 99,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 24395,
@@ -903,11 +833,10 @@
         "orig_title": "The Hill",
         "poster": "https://image.tmdb.org/t/p/w185/c0cJPG3fMPsUoDbaqBuU3n2IX74.jpg",
         "director": "Sidney Lumet",
-        "oscar": false,
-        "cannes": false,
         "year": "1965",
         "runtime": 123,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 439,
@@ -916,11 +845,10 @@
         "orig_title": "La dolce vita",
         "poster": "https://image.tmdb.org/t/p/w185/mkDkCuiGIkyIBe6SlhJ9beiSuDn.jpg",
         "director": "Federico Fellini",
-        "oscar": false,
-        "cannes": true,
         "year": "1960",
         "runtime": 176,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 9428,
@@ -929,11 +857,10 @@
         "orig_title": "The Royal Tenenbaums",
         "poster": "https://image.tmdb.org/t/p/w185/aRAStBP5zaGkTYYJDuh3V6QDZh7.jpg",
         "director": "Wes Anderson",
-        "oscar": false,
-        "cannes": false,
         "year": "2001",
         "runtime": 110,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 80555,
@@ -942,11 +869,10 @@
         "orig_title": "Wind Across the Everglades",
         "poster": "https://image.tmdb.org/t/p/w185/exJ0PFYnp7f8oqDsd3LANcgb6w.jpg",
         "director": "Nicholas Ray, Budd Schulberg",
-        "oscar": false,
-        "cannes": false,
         "year": "1958",
         "runtime": 94,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 221,
@@ -955,11 +881,10 @@
         "orig_title": "Rebel Without a Cause",
         "poster": "https://image.tmdb.org/t/p/w185/7Ve2oZJ8QBUhlMgzPMYkJQtORNX.jpg",
         "director": "Nicholas Ray",
-        "oscar": false,
-        "cannes": false,
         "year": "1955",
         "runtime": 111,
-        "warning": ""
+        "warning": "",
+        "bu": true
     },
     {
         "id": 179144,
@@ -968,8 +893,6 @@
         "orig_title": "La grande bellezza",
         "poster": "https://image.tmdb.org/t/p/w185/uuV2eEMrAp4Sc0m9juknxUAf9rA.jpg",
         "director": "Paolo Sorrentino",
-        "oscar": false,
-        "cannes": false,
         "year": "2013",
         "runtime": 142,
         "warning": ""
@@ -981,11 +904,10 @@
         "orig_title": "The Piano",
         "poster": "https://image.tmdb.org/t/p/w185/wyQO9ugIqj6mB8v7dwPJZOYijV4.jpg",
         "director": "Jane Campion",
-        "oscar": false,
-        "cannes": true,
         "year": "1993",
         "runtime": 117,
-        "warning": ""
+        "warning": "",
+        "bu": true
     },
     {
         "id": 213,
@@ -994,11 +916,10 @@
         "orig_title": "North by Northwest",
         "poster": "https://image.tmdb.org/t/p/w185/A0XgPoHZYqNJ1XiBkg4XCBiZ0w.jpg",
         "director": "Alfred Hitchcock",
-        "oscar": false,
-        "cannes": false,
         "year": "1959",
         "runtime": 136,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 9426,
@@ -1007,11 +928,10 @@
         "orig_title": "The Fly",
         "poster": "https://image.tmdb.org/t/p/w185/a2B4brun6E3XuaPUQqcRDUQLCSE.jpg",
         "director": "David Cronenberg",
-        "oscar": false,
-        "cannes": false,
         "year": "1986",
         "runtime": 96,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 3112,
@@ -1020,11 +940,10 @@
         "orig_title": "The Night of the Hunter",
         "poster": "https://image.tmdb.org/t/p/w185/1YFsL1Y7wkCTKUOP7ZdWAAutJT3.jpg",
         "director": "Charles Laughton",
-        "oscar": false,
-        "cannes": false,
         "year": "1955",
         "runtime": 93,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 300,
@@ -1033,11 +952,10 @@
         "orig_title": "La Science des rêves",
         "poster": "https://image.tmdb.org/t/p/w185/aRMpMDCitnnwOQw86y9pOQOIvoo.jpg",
         "director": "Michel Gondry",
-        "oscar": false,
-        "cannes": false,
         "year": "2006",
-        "runtime": 105,
-        "warning": ""
+        "runtime": 106,
+        "warning": "",
+        "bu": false
     },
     {
         "id": 1480,
@@ -1046,11 +964,10 @@
         "orig_title": "Touch of Evil",
         "poster": "https://image.tmdb.org/t/p/w185/ii5R76odySXCQjE8IIGMB0LQ5EL.jpg",
         "director": "Orson Welles",
-        "oscar": false,
-        "cannes": false,
         "year": "1958",
         "runtime": 111,
-        "warning": ""
+        "warning": "",
+        "bu": true
     },
     {
         "id": 405,
@@ -1059,11 +976,10 @@
         "orig_title": "La strada",
         "poster": "https://image.tmdb.org/t/p/w185/eKdSqv9wPPhdzb6cVrcEujSo3lp.jpg",
         "director": "Federico Fellini",
-        "oscar": false,
-        "cannes": false,
         "year": "1954",
         "runtime": 115,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 262,
@@ -1072,11 +988,10 @@
         "orig_title": "The King of Comedy",
         "poster": "https://image.tmdb.org/t/p/w185/zmb3PE0GEepF7wGHoCuazh4r90.jpg",
         "director": "Martin Scorsese",
-        "oscar": false,
-        "cannes": false,
         "year": "1982",
         "runtime": 109,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 1585,
@@ -1085,11 +1000,10 @@
         "orig_title": "It's a Wonderful Life",
         "poster": "https://image.tmdb.org/t/p/w185/niniH26VfSTF7fefLWwipvNFGbL.jpg",
         "director": "Frank Capra",
-        "oscar": false,
-        "cannes": false,
         "year": "1946",
         "runtime": 130,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 41936,
@@ -1098,11 +1012,10 @@
         "orig_title": "La Vie et rien d'autre",
         "poster": "https://image.tmdb.org/t/p/w185/eJc2IBLPjBUhaANq3KDcDjSvIga.jpg",
         "director": "Bertrand Tavernier",
-        "oscar": false,
-        "cannes": false,
         "year": "1989",
         "runtime": 135,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 67385,
@@ -1111,11 +1024,10 @@
         "orig_title": "La ville est tranquille",
         "poster": "https://image.tmdb.org/t/p/w185/3WBoL2upB5PlopSqd13ffN0a0zl.jpg",
         "director": "Robert Guédiguian",
-        "oscar": false,
-        "cannes": false,
         "year": "2000",
         "runtime": 133,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 914,
@@ -1124,11 +1036,10 @@
         "orig_title": "The Great Dictator",
         "poster": "https://image.tmdb.org/t/p/w185/iklNcUOELu4VV8jZthsY0hsGW50.jpg",
         "director": "Charlie Chaplin",
-        "oscar": false,
-        "cannes": false,
         "year": "1940",
         "runtime": 125,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 963,
@@ -1137,11 +1048,10 @@
         "orig_title": "The Maltese Falcon",
         "poster": "https://image.tmdb.org/t/p/w185/eOyezPtl1xr2st2fZhz0yG7ydZn.jpg",
         "director": "John Huston",
-        "oscar": false,
-        "cannes": false,
         "year": "1941",
         "runtime": 100,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 9693,
@@ -1150,11 +1060,10 @@
         "orig_title": "Children of Men",
         "poster": "https://image.tmdb.org/t/p/w185/8MC78SBv9C67RhTYZeB1Lfkpv4a.jpg",
         "director": "Alfonso Cuarón",
-        "oscar": false,
-        "cannes": false,
         "year": "2006",
         "runtime": 109,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 10697,
@@ -1163,11 +1072,10 @@
         "orig_title": "Le Goût des autres",
         "poster": "https://image.tmdb.org/t/p/w185/oxYD3vfo1K12lBW5GUqFcgQBngs.jpg",
         "director": "Agnès Jaoui",
-        "oscar": false,
-        "cannes": false,
         "year": "2000",
         "runtime": 112,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 910,
@@ -1176,11 +1084,10 @@
         "orig_title": "The Big Sleep",
         "poster": "https://image.tmdb.org/t/p/w185/5gaYxcRapzqqa7EZu6F8DDzLTx1.jpg",
         "director": "Howard Hawks",
-        "oscar": false,
-        "cannes": false,
         "year": "1946",
         "runtime": 114,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 1040,
@@ -1189,11 +1096,10 @@
         "orig_title": "Il gattopardo",
         "poster": "https://image.tmdb.org/t/p/w185/h0YOTruw3MVF5lMUvMrsfBN6mpC.jpg",
         "director": "Luchino Visconti",
-        "oscar": false,
-        "cannes": true,
         "year": "1963",
         "runtime": 186,
-        "warning": ""
+        "warning": "",
+        "bu": true
     },
     {
         "id": 38080,
@@ -1202,11 +1108,10 @@
         "orig_title": "Le Juge et l'Assassin",
         "poster": "https://image.tmdb.org/t/p/w185/bLAF3YArdp5m9DeSisOjBLXcuj4.jpg",
         "director": "Bertrand Tavernier",
-        "oscar": false,
-        "cannes": false,
         "year": "1976",
         "runtime": 128,
-        "warning": ""
+        "warning": "",
+        "bu": true
     },
     {
         "id": 32047,
@@ -1215,11 +1120,10 @@
         "orig_title": "Prince of the City",
         "poster": "https://image.tmdb.org/t/p/w185/txOuBursVdFRiq5JuWJOkTUmxEb.jpg",
         "director": "Sidney Lumet",
-        "oscar": false,
-        "cannes": false,
         "year": "1981",
         "runtime": 167,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 1847,
@@ -1228,11 +1132,10 @@
         "orig_title": "The Long Goodbye",
         "poster": "https://image.tmdb.org/t/p/w185/rRZwoyDyzEviJ2TM5yLCrkDzDVP.jpg",
         "director": "Robert Altman",
-        "oscar": false,
-        "cannes": false,
         "year": "1973",
         "runtime": 112,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 204,
@@ -1241,11 +1144,10 @@
         "orig_title": "Le Salaire de la peur",
         "poster": "https://image.tmdb.org/t/p/w185/i1haWSqYvAuQunSkNVMCtaCLYCu.jpg",
         "director": "Henri-Georges Clouzot",
-        "oscar": false,
-        "cannes": true,
         "year": "1953",
-        "runtime": 148,
-        "warning": ""
+        "runtime": 153,
+        "warning": "",
+        "bu": false
     },
     {
         "id": 20123,
@@ -1254,11 +1156,10 @@
         "orig_title": "Dom za vešanje",
         "poster": "https://image.tmdb.org/t/p/w185/v66RLkGCRkoqHvboPfD4zkwEFKl.jpg",
         "director": "Emir Kusturica",
-        "oscar": false,
-        "cannes": false,
         "year": "1988",
         "runtime": 142,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 24190,
@@ -1267,11 +1168,10 @@
         "orig_title": "Le temps du loup",
         "poster": "https://image.tmdb.org/t/p/w185/70L8elbNbYLvruyM9RTEn51sfYi.jpg",
         "director": "Michael Haneke",
-        "oscar": false,
-        "cannes": false,
         "year": "2003",
         "runtime": 113,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 1116,
@@ -1280,11 +1180,10 @@
         "orig_title": "The Wind That Shakes the Barley",
         "poster": "https://image.tmdb.org/t/p/w185/w1f3fnnhk406J9YT3SG7FJq4kSz.jpg",
         "director": "Ken Loach",
-        "oscar": false,
-        "cannes": true,
         "year": "2006",
         "runtime": 127,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 147,
@@ -1293,11 +1192,10 @@
         "orig_title": "Les Quatre Cents Coups",
         "poster": "https://image.tmdb.org/t/p/w185/9y51Fk9VeihwWzuCdkLDeCnjfoO.jpg",
         "director": "François Truffaut",
-        "oscar": false,
-        "cannes": false,
         "year": "1959",
         "runtime": 99,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 144,
@@ -1306,11 +1204,10 @@
         "orig_title": "Der Himmel über Berlin",
         "poster": "https://image.tmdb.org/t/p/w185/41iAsOXHE1M8QMsoPMsJdlzaqVi.jpg",
         "director": "Wim Wenders",
-        "oscar": false,
-        "cannes": false,
         "year": "1987",
         "runtime": 128,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 14506,
@@ -1319,24 +1216,22 @@
         "orig_title": "The Adventures of Baron Munchausen",
         "poster": "https://image.tmdb.org/t/p/w185/b9N0RTmb2bMA7OjTP02kOMhP5RM.jpg",
         "director": "Terry Gilliam",
-        "oscar": false,
-        "cannes": false,
         "year": "1988",
         "runtime": 126,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 94771,
-        "title": "Les Cent et une nuits de Simon Cinéma",
-        "plot": "Monsieur Cinéma est presque centenaire. Ex-acteur, producteur et réalisateur, il croit être le cinéma à lui tout seul et vit dans un château-musée avec son majordome, Firmin. Il perd la boule et embrouille tout. Il engage alors une jeune cinéphile pour faire faire de l'aérobic à sa mémoire qui flanche. De nombreux visiteurs, des stars et un groupe de jeunes animent sa vieillesse confuse et heureuse.Les jeunes voudraient sa fortune pour « faire du cinéma ».",
-        "orig_title": "Les Cent et une nuits de Simon Cinéma",
+        "title": "Les cent et une nuits de Simon Cinéma",
+        "plot": "Monsieur Cinéma est presque centenaire. Ex-acteur, producteur et réalisateur, il croit être le cinéma à lui tout seul et vit dans un château‑musée avec son majordome, Firmin. Il perd la boule et embrouille tout. Il engage alors une jeune cinéphile pour faire faire de l'aérobic à sa mémoire qui flanche. De nombreux visiteurs, des stars et un groupe de jeunes animent sa vieillesse confuse et heureuse. Les jeunes voudraient sa fortune pour « faire du cinéma ».",
+        "orig_title": "Les cent et une nuits de Simon Cinéma",
         "poster": "https://image.tmdb.org/t/p/w185/kwGJjP3DccwOsypCqs2XrtoZti.jpg",
         "director": "Agnès Varda",
-        "oscar": false,
-        "cannes": false,
         "year": "1995",
         "runtime": 105,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 28971,
@@ -1345,11 +1240,10 @@
         "orig_title": "Limelight",
         "poster": "https://image.tmdb.org/t/p/w185/qkfBYPRMq9oQ9L78vUio4ydxzaR.jpg",
         "director": "Charlie Chaplin",
-        "oscar": false,
-        "cannes": false,
         "year": "1952",
         "runtime": 137,
-        "warning": ""
+        "warning": "",
+        "bu": true
     },
     {
         "id": 614,
@@ -1358,11 +1252,10 @@
         "orig_title": "Smultronstället",
         "poster": "https://image.tmdb.org/t/p/w185/sSwqjBEHTnu2fsATr4hndlZZYyV.jpg",
         "director": "Ingmar Bergman",
-        "oscar": false,
-        "cannes": false,
         "year": "1957",
         "runtime": 91,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 44379,
@@ -1371,11 +1264,10 @@
         "orig_title": "Les Glaneurs et la Glaneuse",
         "poster": "https://image.tmdb.org/t/p/w185/581ikn6BkZ08GhKLQpqYJvajdfA.jpg",
         "director": "Agnès Varda",
-        "oscar": false,
-        "cannes": false,
         "year": "2000",
         "runtime": 82,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 596,
@@ -1384,24 +1276,22 @@
         "orig_title": "The Grapes of Wrath",
         "poster": "https://image.tmdb.org/t/p/w185/3Eg7DADbVD28JB3pHByLID4R3pU.jpg",
         "director": "John Ford",
-        "oscar": false,
-        "cannes": false,
         "year": "1940",
         "runtime": 129,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 975,
-        "title": "Les Sentiers de la Gloire",
+        "title": "Les Sentiers de la gloire",
         "plot": "En 1916, durant la Première Guerre mondiale, le général français Broulard ordonne au général Mireau de lancer une offensive suicidaire contre une position allemande imprenable, surnommée la « Fourmilière ». Au moment de l'attaque, les soldats tombent par dizaines et leurs compagnons, épuisés, refusent d'avancer…",
         "orig_title": "Paths of Glory",
         "poster": "https://image.tmdb.org/t/p/w185/jqSEs0Umv1ZbMt50UqA4zkAhvsK.jpg",
         "director": "Stanley Kubrick",
-        "oscar": false,
-        "cannes": false,
         "year": "1957",
         "runtime": 88,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 346,
@@ -1410,11 +1300,10 @@
         "orig_title": "七人の侍",
         "poster": "https://image.tmdb.org/t/p/w185/5OmAeKNT1ouUmesKNyDSWCeOXk2.jpg",
         "director": "Akira Kurosawa",
-        "oscar": false,
-        "cannes": false,
         "year": "1954",
         "runtime": 207,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 3082,
@@ -1423,11 +1312,10 @@
         "orig_title": "Modern Times",
         "poster": "https://image.tmdb.org/t/p/w185/gcRA8st7q01xDuA34JmrzGG563w.jpg",
         "director": "Charlie Chaplin",
-        "oscar": false,
-        "cannes": false,
         "year": "1936",
         "runtime": 87,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 773,
@@ -1436,11 +1324,10 @@
         "orig_title": "Little Miss Sunshine",
         "poster": "https://image.tmdb.org/t/p/w185/pUPR2pgiVfWMkHcE0SqaE4skDl9.jpg",
         "director": "Jonathan Dayton, Valerie Faris",
-        "oscar": false,
-        "cannes": false,
         "year": "2006",
         "runtime": 102,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 1280,
@@ -1449,11 +1336,10 @@
         "orig_title": "빈집",
         "poster": "https://image.tmdb.org/t/p/w185/tbOplbFYVrmslSv190n35MmGpSb.jpg",
         "director": "Kim Ki-duk",
-        "oscar": false,
-        "cannes": false,
         "year": "2004",
         "runtime": 88,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 153,
@@ -1462,11 +1348,10 @@
         "orig_title": "Lost in Translation",
         "poster": "https://image.tmdb.org/t/p/w185/bUDD5bfF5EHzBwPhL9iJeZuHjVE.jpg",
         "director": "Sofia Coppola",
-        "oscar": false,
-        "cannes": false,
         "year": "2003",
         "runtime": 102,
-        "warning": ""
+        "warning": "",
+        "bu": true
     },
     {
         "id": 832,
@@ -1475,11 +1360,10 @@
         "orig_title": "M - Eine Stadt sucht einen Mörder",
         "poster": "https://image.tmdb.org/t/p/w185/6ggCgD8LLGT3rGukHdTxFWna1qq.jpg",
         "director": "Fritz Lang",
-        "oscar": false,
-        "cannes": false,
         "year": "1931",
         "runtime": 111,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 64968,
@@ -1488,11 +1372,10 @@
         "orig_title": "Marius et Jeannette",
         "poster": "https://image.tmdb.org/t/p/w185/sm5fpmcHEqevSqUd7lBmuwgABM2.jpg",
         "director": "Robert Guédiguian",
-        "oscar": false,
-        "cannes": false,
         "year": "1997",
         "runtime": 105,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 651,
@@ -1501,11 +1384,10 @@
         "orig_title": "M*A*S*H",
         "poster": "https://image.tmdb.org/t/p/w185/Q8zeMBVaMEKw0QneN2Wl2x3mKz.jpg",
         "director": "Robert Altman",
-        "oscar": false,
-        "cannes": true,
         "year": "1970",
         "runtime": 116,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 64131,
@@ -1514,11 +1396,10 @@
         "orig_title": "Mauvais Sang",
         "poster": "https://image.tmdb.org/t/p/w185/4Dcoc3VkkR68GVI12oSCQn0pfzd.jpg",
         "director": "Leos Carax",
-        "oscar": false,
-        "cannes": false,
         "year": "1986",
         "runtime": 119,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 3427,
@@ -1527,11 +1408,10 @@
         "orig_title": "Max et les ferrailleurs",
         "poster": "https://image.tmdb.org/t/p/w185/nrHzQDXCCbRGlZH9wPtp7jYP7A2.jpg",
         "director": "Claude Sautet",
-        "oscar": false,
-        "cannes": false,
         "year": "1971",
         "runtime": 112,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 203,
@@ -1540,11 +1420,10 @@
         "orig_title": "Mean Streets",
         "poster": "https://image.tmdb.org/t/p/w185/cNOpVIQFMG4EB6jgXRG73YJM51h.jpg",
         "director": "Martin Scorsese",
-        "oscar": false,
-        "cannes": false,
         "year": "1973",
         "runtime": 111,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 62215,
@@ -1553,11 +1432,10 @@
         "orig_title": "Melancholia",
         "poster": "https://image.tmdb.org/t/p/w185/tcsN4X7uxhvKgeaeNbIiAIWmxxE.jpg",
         "director": "Lars von Trier",
-        "oscar": false,
-        "cannes": false,
         "year": "2011",
         "runtime": 130,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 11423,
@@ -1566,11 +1444,10 @@
         "orig_title": "살인의 추억",
         "poster": "https://image.tmdb.org/t/p/w185/fz5NYI8PUmPplu3UA70AOqEDJL7.jpg",
         "director": "Bong Joon-ho",
-        "oscar": false,
-        "cannes": false,
         "year": "2003",
         "runtime": 131,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 19,
@@ -1579,11 +1456,10 @@
         "orig_title": "Metropolis",
         "poster": "https://image.tmdb.org/t/p/w185/vHDWZOpupmKB7iNuiWFqnUSjfmN.jpg",
         "director": "Fritz Lang",
-        "oscar": false,
-        "cannes": false,
         "year": "1927",
         "runtime": 149,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 427,
@@ -1592,11 +1468,10 @@
         "orig_title": "Mon oncle",
         "poster": "https://image.tmdb.org/t/p/w185/jaBdzlvx15AMv0pTuhXzwU6UjPw.jpg",
         "director": "Jacques Tati",
-        "oscar": false,
-        "cannes": false,
         "year": "1958",
         "runtime": 118,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 39543,
@@ -1605,11 +1480,10 @@
         "orig_title": "Mon oncle d'Amérique",
         "poster": "https://image.tmdb.org/t/p/w185/2Qs4yD3RdJOfG2S9VSuQ9WEZ5Z7.jpg",
         "director": "Alain Resnais",
-        "oscar": false,
-        "cannes": false,
         "year": "1980",
         "runtime": 126,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 30588,
@@ -1618,11 +1492,10 @@
         "orig_title": "Monsieur Verdoux",
         "poster": "https://image.tmdb.org/t/p/w185/qNtP9p7c3JAaXZLiBeGyuqkDy1o.jpg",
         "director": "Charlie Chaplin",
-        "oscar": false,
-        "cannes": false,
         "year": "1947",
         "runtime": 124,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 6619,
@@ -1631,11 +1504,10 @@
         "orig_title": "Morte a Venezia",
         "poster": "https://image.tmdb.org/t/p/w185/fmZcIUh3QwgcpJiYxARd0nq4cEC.jpg",
         "director": "Luchino Visconti",
-        "oscar": false,
-        "cannes": false,
         "year": "1971",
         "runtime": 131,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 30018,
@@ -1644,11 +1516,10 @@
         "orig_title": "마더",
         "poster": "https://image.tmdb.org/t/p/w185/7apBOPjrD7vdSvUdxF473O4Hevt.jpg",
         "director": "Bong Joon-ho",
-        "oscar": false,
-        "cannes": false,
         "year": "2009",
         "runtime": 129,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 3083,
@@ -1657,11 +1528,10 @@
         "orig_title": "Mr. Smith Goes to Washington",
         "poster": "https://image.tmdb.org/t/p/w185/z9NYHniIiV5tq7f1NskpoNu7hhI.jpg",
         "director": "Frank Capra",
-        "oscar": false,
-        "cannes": false,
         "year": "1939",
         "runtime": 129,
-        "warning": ""
+        "warning": "",
+        "bu": true
     },
     {
         "id": 10774,
@@ -1670,11 +1540,10 @@
         "orig_title": "Network",
         "poster": "https://image.tmdb.org/t/p/w185/dOeVDkHZWxAX9fYzzRCz2TNzxbT.jpg",
         "director": "Sidney Lumet",
-        "oscar": false,
-        "cannes": false,
         "year": "1976",
         "runtime": 122,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 581734,
@@ -1683,11 +1552,10 @@
         "orig_title": "Nomadland",
         "poster": "https://image.tmdb.org/t/p/w185/oT7S2WbwJDtrvNsEos8xuUgbBRm.jpg",
         "director": "Chloé Zhao",
-        "oscar": true,
-        "cannes": false,
         "year": "2021",
         "runtime": 108,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 670,
@@ -1696,11 +1564,10 @@
         "orig_title": "올드보이",
         "poster": "https://image.tmdb.org/t/p/w185/u0Ct3708zXaoJCkF65bLfenQmhM.jpg",
         "director": "Park Chan-wook",
-        "oscar": false,
-        "cannes": false,
         "year": "2003",
         "runtime": 120,
-        "warning": "violence"
+        "warning": "violence",
+        "bu": false
     },
     {
         "id": 185,
@@ -1709,11 +1576,10 @@
         "orig_title": "A Clockwork Orange",
         "poster": "https://image.tmdb.org/t/p/w185/n2oKNiEq9DZljqs6xsxs8hnsW9p.jpg",
         "director": "Stanley Kubrick",
-        "oscar": false,
-        "cannes": false,
         "year": "1971",
         "runtime": 137,
-        "warning": "violence"
+        "warning": "violence",
+        "bu": false
     },
     {
         "id": 47697,
@@ -1722,11 +1588,10 @@
         "orig_title": "Othello",
         "poster": "https://image.tmdb.org/t/p/w185/sCuJYeYla3CnqtcrgVKSNSNSePn.jpg",
         "director": "Orson Welles",
-        "oscar": false,
-        "cannes": true,
         "year": "1951",
         "runtime": 93,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 1990,
@@ -1735,11 +1600,10 @@
         "orig_title": "Paranoid Park",
         "poster": "https://image.tmdb.org/t/p/w185/4q2AgFRUQWp6GPUygoBMK1NqFIG.jpg",
         "director": "Gus Van Sant",
-        "oscar": false,
-        "cannes": false,
         "year": "2007",
         "runtime": 85,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 496243,
@@ -1748,11 +1612,10 @@
         "orig_title": "기생충",
         "poster": "https://image.tmdb.org/t/p/w185/7hLSzZX2jROmEXz2aEoh6JKUFy2.jpg",
         "director": "Bong Joon-ho",
-        "oscar": true,
-        "cannes": false,
         "year": "2019",
         "runtime": 133,
-        "warning": "violence"
+        "warning": "violence",
+        "bu": false
     },
     {
         "id": 655,
@@ -1761,11 +1624,10 @@
         "orig_title": "Paris, Texas",
         "poster": "https://image.tmdb.org/t/p/w185/u7fVugekkAeFLiEBuUOLrpI7MyO.jpg",
         "director": "Wim Wenders",
-        "oscar": false,
-        "cannes": true,
         "year": "1984",
         "runtime": 145,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 64,
@@ -1774,11 +1636,10 @@
         "orig_title": "Hable con ella",
         "poster": "https://image.tmdb.org/t/p/w185/fmCJvc6ZpPaeSGS4bgfc3n5rt00.jpg",
         "director": "Pedro Almodóvar",
-        "oscar": false,
-        "cannes": false,
         "year": "2002",
         "runtime": 112,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 976893,
@@ -1787,11 +1648,10 @@
         "orig_title": "PERFECT DAYS",
         "poster": "https://image.tmdb.org/t/p/w185/aOBDm8oztAJIuvNYP4vYjlUDCpZ.jpg",
         "director": "Wim Wenders",
-        "oscar": false,
-        "cannes": false,
         "year": "2023",
         "runtime": 124,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 797,
@@ -1800,11 +1660,10 @@
         "orig_title": "Persona",
         "poster": "https://image.tmdb.org/t/p/w185/uUqOvN4t5FSHpheO0rNoTF79hBn.jpg",
         "director": "Ingmar Bergman",
-        "oscar": false,
-        "cannes": false,
         "year": "1966",
         "runtime": 83,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 531428,
@@ -1813,11 +1672,10 @@
         "orig_title": "Portrait de la jeune fille en feu",
         "poster": "https://image.tmdb.org/t/p/w185/lH2hSK6F1FZmS3ao384kZCMsbCl.jpg",
         "director": "Céline Sciamma",
-        "oscar": false,
-        "cannes": false,
         "year": "2019",
         "runtime": 121,
-        "warning": ""
+        "warning": "",
+        "bu": true
     },
     {
         "id": 2527,
@@ -1826,24 +1684,22 @@
         "orig_title": "Que la bête meure",
         "poster": "https://image.tmdb.org/t/p/w185/u6EJONPP7zbzFSQwV598sg52MM5.jpg",
         "director": "Claude Chabrol",
-        "oscar": false,
-        "cannes": false,
         "year": "1969",
         "runtime": 113,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 76482,
         "title": "Que la fête commence…",
         "plot": "En France, pendant le premier quart du XVIIIème : Le roi Louis XV (arrière petit fils et successeur de Louis XIV) étant mineur, la régence est assurée par son grand-oncle, le duc d'Orléans, débauché notoire, entouré d'une cour de prostituées et de jouisseurs délurés. En Bretagne, le marquis de Pontcallec fomente un complot destiné à renverser le duc au profit du roi Philippe V d'Espagne, petit-fils de Louis XIV et oncle du jeune souverain. Il espère ainsi redonner son indépendance à la Bretagne - en la libérant de ses devoirs de vassalité envers le pouvoir parisien - et y proclamer la république. L'abbé Dubois, premier ministre complaisant du régent et manipulateur ambitieux, se charge de mettre fin à la conspiration tout en l'utilisant pour assouvir ses propres ambitions.",
         "orig_title": "Que la fête commence !",
-        "poster": "https://image.tmdb.org/t/p/w185/plGdhIngYVs0b123cgWAzHS7lcr.jpg",
+        "poster": "https://image.tmdb.org/t/p/w185/ufsXcKpEElxqDS0CGZfy21JfITf.jpg",
         "director": "Bertrand Tavernier",
-        "oscar": false,
-        "cannes": false,
         "year": "1975",
         "runtime": 120,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 11645,
@@ -1852,24 +1708,22 @@
         "orig_title": "乱",
         "poster": "https://image.tmdb.org/t/p/w185/oEYHiurGitubeMjspRZ16H3hyoe.jpg",
         "director": "Akira Kurosawa",
-        "oscar": false,
-        "cannes": false,
         "year": "1985",
         "runtime": 160,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 179150,
         "title": "Réalité",
-        "plot": "Jason Tantra, un cameraman placide, rêve de réaliser son premier film d'horreur. Bob Marshall, un riche producteur, accepte de financer son film à une seule condition : Jason a 48 heures pour trouver le meilleur gémissement de l'histoire du cinéma…",
+        "plot": "Jason Tantra, un cameraman placide, rêve de réaliser son premier film d'horreur. Bob Marshall, un riche producteur, accepte de financer son film à une seule condition : Jason a 48 heures pour trouver le meilleur gémissement de l'histoire du cinéma…",
         "orig_title": "Réalité",
         "poster": "https://image.tmdb.org/t/p/w185/1WLGqZdUorGgNNQSeYZTNLhqYOR.jpg",
         "director": "Quentin Dupieux",
-        "oscar": false,
-        "cannes": false,
         "year": "2015",
         "runtime": 87,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 223,
@@ -1878,11 +1732,10 @@
         "orig_title": "Rebecca",
         "poster": "https://image.tmdb.org/t/p/w185/6bHIZsfMDhuRUOCeJwOsp0RZRke.jpg",
         "director": "Alfred Hitchcock",
-        "oscar": false,
-        "cannes": false,
         "year": "1940",
         "runtime": 130,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 3547,
@@ -1891,11 +1744,10 @@
         "orig_title": "Reflections in a Golden Eye",
         "poster": "https://image.tmdb.org/t/p/w185/xi4oozs3stbNCUmCu7FsOm2n6hP.jpg",
         "director": "John Huston",
-        "oscar": false,
-        "cannes": false,
         "year": "1967",
         "runtime": 108,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 500,
@@ -1904,24 +1756,22 @@
         "orig_title": "Reservoir Dogs",
         "poster": "https://image.tmdb.org/t/p/w185/p61wwD0jWfgbhg9Ja9uoDZdS8YE.jpg",
         "director": "Quentin Tarantino",
-        "oscar": false,
-        "cannes": false,
         "year": "1992",
         "runtime": 99,
-        "warning": "violence"
+        "warning": "violence",
+        "bu": false
     },
     {
         "id": 11489,
         "title": "Rosetta",
-        "plot": "Rosetta mène tous les jours une guerre sans relâche. Une guerre pour trouver du travail, une place qu'elle perd, qu'elle retrouve, qu'on lui prend, qu'elle reprend, obsédée par la peur de disparaître, par la honte d'être une déplacée. Elle voudrait une vie « normale » comme eux, parmi eux.",
+        "plot": "Rosetta mène tous les jours une guerre sans relâche. Une guerre pour trouver du travail, une place qu'elle perd, qu'elle retrouve, qu'on lui prend, qu'elle reprend, obsédée par la peur de disparaître, par la honte d'être une déplacée. Elle voudrait une vie « normale » comme eux, parmi eux.\r Palme d'Or 1999",
         "orig_title": "Rosetta",
         "poster": "https://image.tmdb.org/t/p/w185/zdWX3mNm9rzEU9f363y0NPehFrS.jpg",
-        "director": "Jean-Pierre Dardenne, Luc Dardenne",
-        "oscar": false,
-        "cannes": true,
+        "director": "Luc Dardenne, Jean-Pierre Dardenne",
         "year": "1999",
         "runtime": 95,
-        "warning": ""
+        "warning": "",
+        "bu": true
     },
     {
         "id": 45649,
@@ -1930,11 +1780,10 @@
         "orig_title": "Rubber",
         "poster": "https://image.tmdb.org/t/p/w185/mrReIBNYzov2Ce7NxPY9KqknSDW.jpg",
         "director": "Quentin Dupieux",
-        "oscar": false,
-        "cannes": false,
         "year": "2010",
         "runtime": 82,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 483,
@@ -1943,11 +1792,10 @@
         "orig_title": "Wild at Heart",
         "poster": "https://image.tmdb.org/t/p/w185/uvfZtoos9bbSKaLDUnCE2O73kkZ.jpg",
         "director": "David Lynch",
-        "oscar": false,
-        "cannes": true,
         "year": "1990",
         "runtime": 125,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 40427,
@@ -1956,11 +1804,10 @@
         "orig_title": "طلای سرخ",
         "poster": "https://image.tmdb.org/t/p/w185/ivJ5lJ5laIuRMxVTzktWYQWy27p.jpg",
         "director": "Jafar Panahi",
-        "oscar": false,
-        "cannes": false,
         "year": "2003",
-        "runtime": 95,
-        "warning": ""
+        "runtime": 96,
+        "warning": "",
+        "bu": false
     },
     {
         "id": 44018,
@@ -1969,11 +1816,10 @@
         "orig_title": "Sans toit ni loi",
         "poster": "https://image.tmdb.org/t/p/w185/dIYq9SiZHEhujoNTJgXhjqnHozh.jpg",
         "director": "Agnès Varda",
-        "oscar": false,
-        "cannes": false,
         "year": "1985",
         "runtime": 105,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 64349,
@@ -1982,11 +1828,10 @@
         "orig_title": "Série noire",
         "poster": "https://image.tmdb.org/t/p/w185/bmzGNNLAR95rKEW7cJipyPycY2h.jpg",
         "director": "Alain Corneau",
-        "oscar": false,
-        "cannes": false,
         "year": "1979",
         "runtime": 111,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 9040,
@@ -1995,11 +1840,10 @@
         "orig_title": "Serpico",
         "poster": "https://image.tmdb.org/t/p/w185/cL82vu7K2LWi9GgVi9dEFtYVMlW.jpg",
         "director": "Sidney Lumet",
-        "oscar": false,
-        "cannes": false,
         "year": "1973",
         "runtime": 130,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 695,
@@ -2008,11 +1852,10 @@
         "orig_title": "Short Cuts",
         "poster": "https://image.tmdb.org/t/p/w185/klBSGQweOLzQzRlF0fGqmiyoiNB.jpg",
         "director": "Robert Altman",
-        "oscar": false,
-        "cannes": false,
         "year": "1993",
         "runtime": 188,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 61560,
@@ -2021,11 +1864,10 @@
         "orig_title": "Smoking / No Smoking",
         "poster": "https://image.tmdb.org/t/p/w185/4Les5XLYn5FbQtevZmLkKSQBRU5.jpg",
         "director": "Alain Resnais",
-        "oscar": false,
-        "cannes": false,
         "year": "1993",
         "runtime": 298,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 265189,
@@ -2034,11 +1876,10 @@
         "orig_title": "Turist",
         "poster": "https://image.tmdb.org/t/p/w185/lc9spDqg0WVauPAk4IBjlzPgYo1.jpg",
         "director": "Ruben Östlund",
-        "oscar": false,
-        "cannes": false,
         "year": "2014",
         "runtime": 120,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 14698,
@@ -2047,11 +1888,10 @@
         "orig_title": "Suddenly, Last Summer",
         "poster": "https://image.tmdb.org/t/p/w185/gvnPay4mSE4tbDzjv2e1sdcUJTD.jpg",
         "director": "Joseph L. Mankiewicz",
-        "oscar": false,
-        "cannes": false,
         "year": "1959",
         "runtime": 114,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 31300,
@@ -2060,11 +1900,10 @@
         "orig_title": "Sous le soleil de Satan",
         "poster": "https://image.tmdb.org/t/p/w185/aKWzbDNbh5tEp53XXfiUAzohVck.jpg",
         "director": "Maurice Pialat",
-        "oscar": false,
-        "cannes": true,
         "year": "1987",
         "runtime": 98,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 31076,
@@ -2073,11 +1912,10 @@
         "orig_title": "Stupeur et tremblements",
         "poster": "https://image.tmdb.org/t/p/w185/aD3xI2bAShtdq0OtFQtbQr7Njh3.jpg",
         "director": "Alain Corneau",
-        "oscar": false,
-        "cannes": false,
         "year": "2003",
         "runtime": 107,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 599,
@@ -2086,11 +1924,10 @@
         "orig_title": "Sunset Boulevard",
         "poster": "https://image.tmdb.org/t/p/w185/uI3woJ8BROjZm1Tfvc6XlyDkXG3.jpg",
         "director": "Billy Wilder",
-        "oscar": false,
-        "cannes": false,
         "year": "1950",
         "runtime": 110,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 654,
@@ -2099,11 +1936,10 @@
         "orig_title": "On the Waterfront",
         "poster": "https://image.tmdb.org/t/p/w185/mVrMBsovgLtlONd03l1OhjsnnCq.jpg",
         "director": "Elia Kazan",
-        "oscar": true,
-        "cannes": false,
         "year": "1954",
         "runtime": 108,
-        "warning": ""
+        "warning": "",
+        "bu": true
     },
     {
         "id": 6173,
@@ -2112,11 +1948,10 @@
         "orig_title": "Sur mes lèvres",
         "poster": "https://image.tmdb.org/t/p/w185/jeCaVrg9mmgRmJWRMDnch5X7tBy.jpg",
         "director": "Jacques Audiard",
-        "oscar": false,
-        "cannes": false,
         "year": "2001",
         "runtime": 115,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 1376,
@@ -2125,11 +1960,10 @@
         "orig_title": "Sweet Sixteen",
         "poster": "https://image.tmdb.org/t/p/w185/cTDx9LyaMrJ78fKyRThM6qbk56u.jpg",
         "director": "Ken Loach",
-        "oscar": false,
-        "cannes": false,
         "year": "2002",
         "runtime": 106,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 559401,
@@ -2138,11 +1972,10 @@
         "orig_title": "Sibyl",
         "poster": "https://image.tmdb.org/t/p/w185/eliw2t5CKkTSAFLuupXxT5cTOte.jpg",
         "director": "Justine Triet",
-        "oscar": false,
-        "cannes": false,
         "year": "2019",
         "runtime": 100,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 103,
@@ -2151,11 +1984,10 @@
         "orig_title": "Taxi Driver",
         "poster": "https://image.tmdb.org/t/p/w185/cgN3EB62KbRWYaRfymXPxICksrx.jpg",
         "director": "Martin Scorsese",
-        "oscar": false,
-        "cannes": true,
         "year": "1976",
         "runtime": 114,
-        "warning": "violence"
+        "warning": "violence",
+        "bu": false
     },
     {
         "id": 320006,
@@ -2164,11 +1996,10 @@
         "orig_title": "تاکسی",
         "poster": "https://image.tmdb.org/t/p/w185/rFWaKGNtqe8uFCWTJwSdqU8ZgNt.jpg",
         "director": "Jafar Panahi",
-        "oscar": false,
-        "cannes": false,
         "year": "2015",
         "runtime": 82,
-        "warning": ""
+        "warning": "",
+        "bu": true
     },
     {
         "id": 120467,
@@ -2177,11 +2008,10 @@
         "orig_title": "The Grand Budapest Hotel",
         "poster": "https://image.tmdb.org/t/p/w185/zOVCqKUzjFKqa1eDMcOzvXwthY4.jpg",
         "director": "Wes Anderson",
-        "oscar": false,
-        "cannes": false,
         "year": "2014",
         "runtime": 100,
-        "warning": ""
+        "warning": "",
+        "bu": true
     },
     {
         "id": 1255,
@@ -2190,37 +2020,34 @@
         "orig_title": "괴물",
         "poster": "https://image.tmdb.org/t/p/w185/gqAii6XERy4vv1lK6C9fUI5y9OX.jpg",
         "director": "Bong Joon-ho",
-        "oscar": false,
-        "cannes": false,
         "year": "2006",
         "runtime": 120,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
-        "id": 281957,
-        "title": "The Revenant",
-        "plot": "Dans une Amérique profondément sauvage, le trappeur Hugh Glass est sévèrement blessé et laissé pour mort par un traître de son équipe, John Fitzgerald. Avec sa seule volonté pour unique arme, Glass doit affronter un environnement hostile, un hiver brutal et des tribus guerrières, dans une inexorable lutte pour sa survie, portée par un intense désir de vengeance.",
+        "id": 79896,
+        "title": "The Revenants",
+        "plot": "Un soir, Bart frappe à l'improviste à la porte de Joey, son meilleur ami, alors que ce dernier s'est fait enterrer la veille. Bart, en effet, est bien décidé à partager sa crise d'identité avec son ami : avide de sang, il se demande s'il est de la catégorie des zombies ou des vampires...",
         "orig_title": "The Revenant",
-        "poster": "https://image.tmdb.org/t/p/w185/AsDto68FNWNXD15Ov0yMXASJiSB.jpg",
-        "director": "Alejandro González Iñárritu",
-        "oscar": false,
-        "cannes": false,
-        "year": "2015",
-        "runtime": 157,
-        "warning": ""
+        "poster": "https://image.tmdb.org/t/p/w185/aorVXEnyXEmcbH7TLavnK4TbUCq.jpg",
+        "director": "D. Kerry Prior",
+        "year": "2009",
+        "runtime": 110,
+        "warning": "",
+        "bu": false
     },
     {
         "id": 7345,
         "title": "There Will Be Blood",
         "plot": "Lorsque Daniel Plainview entend parler d’une petite ville de Californie où l’on dit qu’un océan de pétrole coulerait littéralement du sol, il décide d’aller tenter sa chance et part avec son fils H.W. à Little Boston. Dans cet endroit perdu où chacun lutte pour survivre et où l’unique distraction est l’église animée par le charismatique prêtre Eli Sunday, Plainview et son fils voient le sort leur sourire. Même si le pétrole comble leurs attentes et fait leur fortune, plus rien ne sera comme avant : les tensions s’intensifient, les conflits éclatent et les valeurs humaines comme l’amour, l’espoir, le sens de la communauté, les croyances, l’ambition et même les liens entre père et fils sont mis en péril par la corruption, la trahison… et le pétrole.",
         "orig_title": "There Will Be Blood",
-        "poster": "https://image.tmdb.org/t/p/w185/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+        "poster": "https://image.tmdb.org/t/p/w185/cf4SpPyVRfE1lmlnVIXoii337s2.jpg",
         "director": "Paul Thomas Anderson",
-        "oscar": false,
-        "cannes": false,
         "year": "2007",
         "runtime": 158,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 99,
@@ -2229,11 +2056,10 @@
         "orig_title": "Todo sobre mi madre",
         "poster": "https://image.tmdb.org/t/p/w185/lgiKLKvrceUfaZUB68z3f86N1gN.jpg",
         "director": "Pedro Almodóvar",
-        "oscar": false,
-        "cannes": false,
         "year": "1999",
         "runtime": 101,
-        "warning": ""
+        "warning": "",
+        "bu": true
     },
     {
         "id": 452522,
@@ -2242,11 +2068,10 @@
         "orig_title": "Twin Peaks",
         "poster": "https://image.tmdb.org/t/p/w185/6ZI3togUcKnUlpYzyGmWUFD7ZL8.jpg",
         "director": "David Lynch",
-        "oscar": false,
-        "cannes": false,
         "year": "1989",
         "runtime": 116,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 968,
@@ -2255,11 +2080,10 @@
         "orig_title": "Dog Day Afternoon",
         "poster": "https://image.tmdb.org/t/p/w185/wx54osROfinN2F522AD8ppFwR77.jpg",
         "director": "Sidney Lumet",
-        "oscar": false,
-        "cannes": false,
         "year": "1975",
         "runtime": 125,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 21575,
@@ -2268,11 +2092,10 @@
         "orig_title": "Un prophète",
         "poster": "https://image.tmdb.org/t/p/w185/m5kvm1nfAVc4Sd78EXlFHTYOcgd.jpg",
         "director": "Jacques Audiard",
-        "oscar": false,
-        "cannes": false,
         "year": "2009",
         "runtime": 155,
-        "warning": ""
+        "warning": "",
+        "bu": true
     },
     {
         "id": 702,
@@ -2281,11 +2104,10 @@
         "orig_title": "A Streetcar Named Desire",
         "poster": "https://image.tmdb.org/t/p/w185/kf4GEaqCGFCvO1ASAwCcUMAUhNy.jpg",
         "director": "Elia Kazan",
-        "oscar": false,
-        "cannes": false,
         "year": "1951",
         "runtime": 125,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 11902,
@@ -2294,11 +2116,10 @@
         "orig_title": "Подземље",
         "poster": "https://image.tmdb.org/t/p/w185/jQEUvrwl2zTq4azl0dGOB24UY3A.jpg",
         "director": "Emir Kusturica",
-        "oscar": false,
-        "cannes": true,
         "year": "1995",
         "runtime": 170,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 29845,
@@ -2307,24 +2128,22 @@
         "orig_title": "A Woman Under the Influence",
         "poster": "https://image.tmdb.org/t/p/w185/v64jpKA1o03V9kArXOT8oZpU2CC.jpg",
         "director": "John Cassavetes",
-        "oscar": false,
-        "cannes": false,
         "year": "1974",
         "runtime": 155,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 426,
-        "title": "Sueurs Froides",
-        "plot": "Scottie est sujet au vertige, ce qui lui porte préjudice dans son métier de policier. Rendu responsable de la mort d'un de ses collègues, il décide de quitter la police. Une ancienne relation le contacte afin qu'il suive sa femme, possédée selon lui par l'esprit de son aïeule. Scottie s'éprend de la jeune femme et se trouve ballotté par des événements qu'il ne peut contrôler.",
+        "title": "Sueurs froides",
+        "plot": "John Ferguson (James Stewart), surnommé « Scottie », est pris de vertige tandis qu’il poursuit un malfaiteur avec un collègue policier. L’incident vaut la mort de ce dernier et la démission de Ferguson des services de police. Peu après, une ancienne connaissance de Scottie le contacte afin de lui demander de suivre sa femme, Madeleine Elster (Kim Novak), qui semble hantée par l’esprit d’une morte, en l’occurrence sa grand-mère, qui se suicida après avoir sombré dans la folie. Scottie s'éprend de la jeune femme et se trouve ballotté par des événements qu'il ne peut contrôler.",
         "orig_title": "Vertigo",
         "poster": "https://image.tmdb.org/t/p/w185/uFhTTIJypI747dfXpTmsqCxZgZB.jpg",
         "director": "Alfred Hitchcock",
-        "oscar": false,
-        "cannes": false,
         "year": "1958",
-        "runtime": 129,
-        "warning": ""
+        "runtime": 128,
+        "warning": "",
+        "bu": true
     },
     {
         "id": 219,
@@ -2333,11 +2152,10 @@
         "orig_title": "Volver",
         "poster": "https://image.tmdb.org/t/p/w185/bkO47UpJxlTORkgE3QdMo1eor8f.jpg",
         "director": "Pedro Almodóvar",
-        "oscar": false,
-        "cannes": false,
         "year": "2006",
         "runtime": 121,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 310593,
@@ -2346,11 +2164,10 @@
         "orig_title": "Youth",
         "poster": "https://image.tmdb.org/t/p/w185/8fruFhYsqc1ufF5NvG2PzKJQ5su.jpg",
         "director": "Paolo Sorrentino",
-        "oscar": false,
-        "cannes": false,
         "year": "2015",
         "runtime": 125,
-        "warning": ""
+        "warning": "",
+        "bu": false
     },
     {
         "id": 1949,
@@ -2359,10 +2176,9 @@
         "orig_title": "Zodiac",
         "poster": "https://image.tmdb.org/t/p/w185/ajHaO6hqFmvRNsUh3BIFwE5ghsI.jpg",
         "director": "David Fincher",
-        "oscar": false,
-        "cannes": false,
         "year": "2007",
-        "runtime": 163,
-        "warning": ""
+        "runtime": 157,
+        "warning": "",
+        "bu": false
     }
 ]

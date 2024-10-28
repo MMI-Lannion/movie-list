@@ -10,6 +10,7 @@ function App() {
     m =>
       <Movie
         warning = {m.warning}
+        bu = {m.bu}
         title = {m.title}
         plot = {m.plot}
         orig_title = {m.orig_title}
