@@ -2062,14 +2062,14 @@
         "bu": true
     },
     {
-        "id": 452522,
-        "title": "Twin Peaks : Qui a tué Laura Palmer ?",
-        "plot": "Dans la ville de Twin Peaks, située dans le nord-est de l'État de Washington, le cadavre de Laura Palmer, une jolie lycéenne connue et aimée de tous, est retrouvé emballé dans du plastique sur la berge d'une rivière. L'agent spécial du FBI Dale Cooper est désigné pour mener l'enquête dans la petite ville. Il découvre alors que Laura Palmer n'était pas celle que l'on croyait et que de nombreux habitants de la ville ont quelque chose à cacher...  Montage alternatif du pilote de la série télévisée Twin Peaks.",
-        "orig_title": "Twin Peaks",
-        "poster": "https://image.tmdb.org/t/p/w185/6ZI3togUcKnUlpYzyGmWUFD7ZL8.jpg",
+        "id": 9648,
+        "title": "Twin Peaks : Fire walk with me",
+        "plot": "La mort mysterieuse de Teresa Banks dans la tranquille petite ville de Deer Meadow va donner bien du fil a retordre aux agents Dale Cooper et Chester Desmond qui vont mener une enquête en forme de charade et découvrir que bien des citoyens de la ville sont impliqués dans cette affaire. Un an plus tard, ce sont les sept derniers jours de Laura Palmer, qui se termineront par la mort brutale de cette dernière, annonçant ainsi le début de Twin Peaks, le soap opera.",
+        "orig_title": "Twin Peaks : Fire walk with me",
+        "poster": "https://image.tmdb.org/t/p/w185/2lV7va18qO6KYyLXSxanf6a38J6.jpg",
         "director": "David Lynch",
-        "year": "1989",
-        "runtime": 116,
+        "year": "1992",
+        "runtime": 135,
         "warning": "",
         "bu": false
     },
