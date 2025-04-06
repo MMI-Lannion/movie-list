@@ -8,19 +8,19 @@ import { faTriangleExclamation } from '@fortawesome/free-solid-svg-icons'
 import { faCompactDisc } from '@fortawesome/free-solid-svg-icons'
 
 
-export default function Movie({ warning, bu, title, plot, orig_title, poster, director, oscar, cannes, berlin, mostra, cesar, year, runtime }) {
+export default function Movie({warning, bu, title, plot, orig_title, poster, director, oscar, cannes, berlin, mostra, cesar, year, runtime }) {
 
     let icons = []
     if (cannes)
-        icons.push(<img className="m-0 h-6" src={cannesIcon} alt="cannes icon" />)
+        icons.push(<img key={"cannes"} className="m-0 h-6" src={cannesIcon} alt="cannes icon" />)
     if (oscar)
-        icons.push(<img className="m-0 h-6" src={oscarIcon} alt="oscar icon" />)
+        icons.push(<img key={"oscar"} className="m-0 h-6" src={oscarIcon} alt="oscar icon" />)
     if (berlin)
-        icons.push(<img className="m-0 h-6" src={berlinIcon} alt="berlin icon" />)
+        icons.push(<img key={"berlin"} className="m-0 h-6" src={berlinIcon} alt="berlin icon" />)
     if (mostra)
-        icons.push(<img className="m-0 h-6" src={mostraIcon} alt="mostra icon" />)
+        icons.push(<img key={"mostra"} className="m-0 h-6" src={mostraIcon} alt="mostra icon" />)
     if (cesar)
-        icons.push(<img className="m-0 h-6" src={cesarIcon} alt="cesar icon" />)
+        icons.push(<img key={"cesar"} className="m-0 h-6" src={cesarIcon} alt="cesar icon" />)
 
     let warningDiv = null
     if (warning !== "")
